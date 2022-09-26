@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-Tesla Display is an android app for Tesla drivers.
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
