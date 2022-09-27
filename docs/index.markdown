@@ -14,7 +14,6 @@ In some countries(eg. China), Tesla's built-in navigation app is not good. You c
 
 # How to get this app?
 
-Get this app in Google Play.
 <a href ="https://play.google.com/store/apps/details?id=io.github.blackpill.tesladisplay"><img src="./google-play-badge.svg" height="100px"></a>
 
 # Will it spend extra internet traffic?
@@ -31,8 +30,4 @@ No, because your Tesla is connected to the hotspot wifi of your mobile phone, th
 # Is this app free?
 
 Yes. Only with some advertisement to support the author.
-
-```
-The final element.
-```
 
