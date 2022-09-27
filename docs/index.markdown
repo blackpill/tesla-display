@@ -4,129 +4,33 @@ layout: default
 
 # Why you need this app?
 
-Why you need this app?
+This app can cast the small screen of your mobile phone to the big screen of your Tesla.
 
-## Usecase 1: 
+## Usecase 1:
+Your kids can watch videos when you are driving.
+
+## Usecase 2:
+In some countries(eg. China), Tesla's built-in navigation app is not good. You can use the mobile navigation app, and cast the screen. 
 
 # How to get this app?
 
 Get this app in Google Play.
-<a href ="https://play.google.com/store/apps/details?id=io.github.blackpill.tesladisplay"><img src="./google-play-badge.svg"></a>
-[![](google-play-badge.svg)](https://play.google.com/store/apps/details?id=io.github.blackpill.tesladisplay)
+<a href ="https://play.google.com/store/apps/details?id=io.github.blackpill.tesladisplay"><img src="./google-play-badge.svg" height="100px"></a>
 
 # Will it spend extra internet traffic?
 
-Why you need this app?
+No, because your Tesla is connected to the hotspot wifi of your mobile phone, the screen data is transfered through the local wifi. 
 
 # How to improve the video quality?
 
-Why you need this app?
+1. Make sure that the hotspot wifi works in 5GHz mode.
+2. Make sure that no other devices connect to the hotspot.
+3. Disable hardware acceleration in the settings panel.
+4. Resize image to a smaller ratio.
 
 # Is this app free?
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+Yes. Only with some advertisement to support the author.
 
 ```
 The final element.
