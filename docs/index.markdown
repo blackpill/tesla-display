@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Why you need this app?
+# Tesla Display - An App for Tesla Drivers
 
 This app can cast the small screen of your mobile phone to the big screen of your Tesla.
 
