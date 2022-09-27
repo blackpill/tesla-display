@@ -2,17 +2,27 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Why you need this app?
 
-[Link to about page](./about/index.html).
+Why you need this app?
 
-There should be whitespace between paragraphs.
+## Usecase 1: 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# How to get this app?
 
-# Header 1
+Get this app in Google Play.
+<a href ="https://play.google.com/store/apps/details?id=io.github.blackpill.tesladisplay"><img src="./google-play-badge.svg"></a>
+[![](google-play-badge.svg)](https://play.google.com/store/apps/details?id=io.github.blackpill.tesladisplay)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Will it spend extra internet traffic?
+
+Why you need this app?
+
+# How to improve the video quality?
+
+Why you need this app?
+
+# Is this app free?
 
 ## Header 2
 
