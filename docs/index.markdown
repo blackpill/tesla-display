@@ -15,7 +15,7 @@ In some countries(eg. China), Tesla's built-in navigation app is not good. You c
 # How to use this app?
 <!-- blank line -->
 <figure class="video_container">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/ixLnKFQ4EfQ" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe width="360" height="640" src="https://www.youtube.com/embed/ixLnKFQ4EfQ" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
@@ -40,4 +40,4 @@ Yes. Only with some advertisement to support the author.
 
 # More about this app?
 
-Discuss in reddit. <a href ="https://www.reddit.com/r/tesladisplay/"><img src="reddit.jpg" height=50px></a>
+<a href ="https://www.reddit.com/r/tesladisplay/" target="_blank">Discuss in reddit <img src="reddit.png" height=50px></a>
