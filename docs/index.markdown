@@ -38,3 +38,6 @@ No, because your Tesla is connected to the hotspot wifi of your mobile phone, th
 
 Yes. Only with some advertisement to support the author.
 
+# More about this app?
+
+Discuss in reddit. <a href ="https://www.reddit.com/r/tesladisplay/"><img src="reddit.jpg" height=50px></a>
