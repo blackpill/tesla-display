@@ -12,6 +12,9 @@ Your kids can watch videos when you are driving.
 ## Usecase 2:
 In some countries(eg. China), Tesla's built-in navigation app is not good. You can use the mobile navigation app, and cast the screen. 
 
+# How to use this app?
+[![How to use Tesla Display](https://res.cloudinary.com/marcomontalbano/image/upload/v1672105723/video_to_markdown/images/youtube--ixLnKFQ4EfQ-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/ixLnKFQ4EfQ "How to use Tesla Display")
+
 # How to get this app?
 
 <a href ="https://play.google.com/store/apps/details?id=io.github.blackpill.tesladisplay"><img src="./google-play-badge.svg" height="100px"></a>
