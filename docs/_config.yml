@@ -22,9 +22,8 @@ encoding: UTF-8
 title: Tesla Display
 email: blackpill@msn.com
 description: >- # this means to ignore newlines until "baseurl:"
-  An android app which can cast your small screen of your mobile phone to the large
-  screen of your Tesla. Now it can support GPU acceleration for video encoding if your
-  mobile phone support it.
+  A FREE screen mirror app for Tesla owners. This app can cast your small screen of your mobile phone to the large
+  screen of your Tesla.
 baseurl: /tesla-display # the subpath of your site, e.g. /blog
 url: https://blackpill.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: blackpill
