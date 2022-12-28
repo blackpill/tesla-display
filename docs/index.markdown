@@ -12,12 +12,19 @@ Your kids can watch videos when you are driving.
 ## Usecase 2:
 In some countries(eg. China), Tesla's built-in navigation app is not good. You can use the mobile navigation app, and cast the screen. 
 
+## Usecase 3:
+Share personal videos or watch some video apps that Tesla doesn't include.
+
 # How to use this app?
 <!-- blank line -->
 <figure class="video_container">
   <iframe width="360" height="640" src="https://www.youtube.com/embed/ixLnKFQ4EfQ" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
+
+# Is this app free?
+
+Yes. Only with some advertisement to support the author.
 
 # How to get this app?
 
@@ -30,13 +37,12 @@ No, because your Tesla is connected to the hotspot wifi of your mobile phone, th
 # How to improve the video quality?
 
 1. Make sure that the hotspot wifi works in 5GHz mode.
-2. Make sure that no other devices connect to the hotspot.
-3. Disable hardware acceleration in the settings panel.
+2. Make sure that no other devices connected to the hotspot.
+3. For old phones, disable hardware acceleration in the settings panel.
 4. Resize image to a smaller ratio.
 
-# Is this app free?
-
-Yes. Only with some advertisement to support the author.
+# Does it support full-screen mode in Tesla?
+Yes. First enter the full-screen mode via https://www.fullscreentesla.com or http://s3xy.top in Tesla's browser, and then add a link to http://7.7.7.7:7777.
 
 # More about this app?
 
