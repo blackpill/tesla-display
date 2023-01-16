@@ -17,14 +17,14 @@ In some countries(eg. China), Tesla's built-in navigation app is not good. You c
 1080p HD video screen mirror using Tesla Display app
 <!-- blank line -->
 <figure class="video_container">
-  <iframe width="640" height="360" src="https://youtu.be/PkbfoLHjrvE" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/PkbfoLHjrvE" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
 The remote control function of Tesla Display app
 <!-- blank line -->
 <figure class="video_container">
-  <iframe width="360" height="640" src="https://youtube.com/shorts/CCqVkeF_VNg?feature=share" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe width="360" height="640" src="https://www.youtube.com/embed/CCqVkeF_VNg" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
