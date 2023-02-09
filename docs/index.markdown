@@ -34,7 +34,7 @@ Yes. Only with some advertisement to support the author.
 
 # How to get this app?
 
-<a href ="https://play.google.com/store/apps/details?id=io.github.blackpill.tesladisplay"><img src="./google-play-badge.svg" height="100px"></a>
+<a href ="https://play.google.com/store/apps/details?id=io.github.blackpill.tesladisplay&referrer=utm_source%3Dgithub%26utm_medium%3Dorganic"><img src="./google-play-badge.svg" height="100px"></a>
 
 # Will it spend extra internet traffic?
 
