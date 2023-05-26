@@ -57,6 +57,19 @@ Yes. First enter the full-screen mode via https://www.fullscreentesla.com or htt
 </figure>
 <!-- blank line -->
 
+# What type of video URL address this app can support?
+
+1. The URL address that links to the video file directly. Usually it ends up with a video file suffix (eg. mp4, avi).
+2. The URL address from supported video platforms below: (Note that the live streams from these sites are still not supported)
+<a name="platforms">Supported video platforms</a>
+  - Youtube
+  - Tiktok
+  - TED talk
+  - ESPN
+  - CBC
+  - PBS
+
+
 # More about this app?
 
 <a href ="https://groups.google.com/g/tesla-display" target="_blank">Discuss in Google Group <img src="group.png" height=50px></a>
