@@ -68,8 +68,8 @@ Yes. First enter the full-screen mode via https://www.fullscreentesla.com or htt
   - CBC
   - PBS
 
-<p>Note: the live streams from these sites are still not supported
-I'm still working on supporting more video platforms.</p>
+<p>Note: the live streams from these sites are still not supported.</p>
+<p>I'm still working on supporting more video platforms.</p>
 
 
 # More about this app?
