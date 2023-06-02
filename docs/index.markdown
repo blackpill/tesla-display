@@ -2,12 +2,8 @@
 layout: default
 ---
 
-# Tesla Display - A FREE Tesla screen mirror app
-
-This free app can cast the small screen of your mobile phone to the big screen of your Tesla.
-
 ## Use scenario 1:
-Share personal videos or watch some video apps that Tesla doesn't include.
+Let your passengers(eg. your kids) watch interesting videos while you drive.
 
 ## Use scenario 2:
 In some countries(eg. China), Tesla's built-in navigation app is not good. You can use the mobile navigation app, and cast the screen. 
