@@ -26,11 +26,17 @@ Share personal videos or watch some video apps that Tesla doesn't include.
 In some countries(eg. China), Tesla's built-in navigation app is not good. You can use the mobile navigation app, and cast the screen. 
 
 ## The demo videos of Tesla Display app
+My kid is watching Peppa Pig while I'm driving.
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="390" height="220" src="https://www.youtube.com/embed/Hb4D_IvOjMc" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 1080p HD video screen mirror using Tesla Display app
 <!-- blank line -->
 <figure class="video_container">
-  <iframe width="640" height="360" src="https://www.youtube.com/embed/PkbfoLHjrvE" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe width="390" height="220" src="https://www.youtube.com/embed/PkbfoLHjrvE" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
