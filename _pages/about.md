@@ -19,11 +19,13 @@ profile:
 social: true  # includes social icons at the bottom of the page
 ---
 
-## Use scenario 1:
-Share personal videos or watch some video apps that Tesla doesn't include.
+## Why should I use this app?
 
-## Use scenario 2:
-In some countries(eg. China), Tesla's built-in navigation app is not good. You can use the mobile navigation app, and cast the screen. 
+1. Play some video files for passengers (eg. kids) to ease the pain of long trip.
+
+2. Share personal videos or use some video apps that is not installed in Tesla.
+
+3. In some countries(eg. China), Tesla's built-in navigator app is not good. We can use the mobile navigator app, and cast to Tesla's big screen. 
 
 ## The demo videos of Tesla Display app
 My kid is watching Peppa Pig while I'm driving.
@@ -33,7 +35,7 @@ My kid is watching Peppa Pig while I'm driving.
 </figure>
 <!-- blank line -->
 
-1080p HD video screen mirror while parked.
+1080p HD video fullscreen mirror while parked.
 <!-- blank line -->
 <figure class="video_container">
   <iframe width="390" height="220" src="https://www.youtube.com/embed/PkbfoLHjrvE" frameborder="0" allowfullscreen="true"> </iframe>
@@ -62,13 +64,5 @@ Due to safety concern, drivers must focused on driving. But passengers can watch
 ## Does it support full-screen mode in Tesla?
 Yes. First enter the full-screen mode via https://www.fullscreentesla.com or http://s3xy.top in Tesla's browser, and then add a link to https://td9.cc:7777.
 
-## How to use this app?
-<!-- blank line -->
-<figure class="video_container">
-  <iframe width="360" height="640" src="https://www.youtube.com/embed/ixLnKFQ4EfQ" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-
 ## More about this app?
-
 <a href ="https://groups.google.com/g/tesla-display" target="_blank">Discuss in Google Group <img src="group.png" height=50px></a>
