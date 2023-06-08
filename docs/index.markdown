@@ -1,5 +1,8 @@
 ---
 layout: default
+title: Tesla Display
+permalink: /
+subtitle: A FREE app can cast video or mirror phone screen to the big screen of your Tesla.
 ---
 
 ## Use scenario 1:
