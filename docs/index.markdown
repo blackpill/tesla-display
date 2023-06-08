@@ -12,18 +12,17 @@ Let your passengers(eg. your kids) watch interesting videos while you drive.
 In some countries(eg. China), Tesla's built-in navigation app is not good. You can use the mobile navigation app, and cast the screen. 
 
 # The demo videos of Tesla Display app
+My kid is watching Peppa Pig while I'm driving.
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Hb4D_IvOjMc" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 
 1080p HD video screen mirror using Tesla Display app
 <!-- blank line -->
 <figure class="video_container">
-  <iframe width="640" height="360" src="https://www.youtube.com/embed/PkbfoLHjrvE" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-
-The remote control function of Tesla Display app
-<!-- blank line -->
-<figure class="video_container">
-  <iframe width="360" height="640" src="https://www.youtube.com/embed/CCqVkeF_VNg" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/PkbfoLHjrvE" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
