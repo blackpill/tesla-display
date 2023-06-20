@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://blackpill.github.io/sitemap.xml
+Sitemap: https://tesladisplay.com/sitemap.xml
