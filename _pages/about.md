@@ -62,7 +62,7 @@ Due to safety concern, drivers must focused on driving. But passengers can watch
 <!-- blank line -->
 
 ## Does it support full-screen mode in Tesla?
-Yes. First enter the full-screen mode via https://www.fullscreentesla.com or http://s3xy.top in Tesla's browser, and then add a link to https://td9.cc:7777.
+Yes. First enter the full-screen mode via https://www.fullscreentesla.com, or https://abettertheater.com/, or http://s3xy.top in Tesla's browser, and then add a link to https://td9.cc:7777.
 
 ## More about this app?
 <a href ="https://groups.google.com/g/tesla-display" target="_blank">Discuss in Google Group <img src="group.png" height=50px></a>
