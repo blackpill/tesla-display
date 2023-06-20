@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Tesla Display # the website title (if blank, full name will be used instead)
+title: Tesla Display - a FREE app to cast video or mirror screen to Tesla # the website title (if blank, full name will be used instead)
 subtitle: 
 first_name: 
 middle_name: 
@@ -364,7 +364,7 @@ enable_navbar_social:       false  # enables displaying social links in the
 enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
-enable_progressbar:         true   # enables a horizontal progress bar linked to the vertical scroll position
+enable_progressbar:         false   # enables a horizontal progress bar linked to the vertical scroll position
 
 # -----------------------------------------------------------------------------
 # Library versions
