@@ -1,13 +1,13 @@
 ---
 layout: page
-title: submenus
-nav: false
+title: How-To
+nav: true
 nav_order: 6
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: Waze
+      permalink: /waze/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: Google Map
+      permalink: /gmap/
 ---
