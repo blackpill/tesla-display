@@ -26,7 +26,7 @@ We must set the "Mirror Mode" option to "Image Mode" because only "Image Mode" c
 It's strongly recommended to set the "Enable remote control" option checked. When it is checked, we can manipulate the Google Map app directly on Tesla's touchscreen.
 ## 4. Mirror to Tesla's touchscreen
 <p style="text-align: center;">
-<img src="/assets/img/phone-screen.jpg" width="540px">
+<img src="/assets/img/phone-screen.png" width="540px">
 </p>
 After setting, click the start button of Tesla Display. Choose "Phone screen". After a moment, the phone screen starts mirroring.
 Then open the web browser of Tesla EV, access the URL "https://td9.cc:7777". Now we can see the phone screen in the web browser.
