@@ -20,7 +20,7 @@ Then make sure that the Tesla EV is connected to the Wi-Fi hotspot of your phone
 
 ## 3. Copy video link from Tiktok
 <p style="text-align: center;">
-<img src="/assets/img/youtube-share.png" width="540px">
+<img src="/assets/img/tiktok-share.jpg" width="540px">
 </p>
 Open the Tiktok app.
 Choose a video you want to play.
