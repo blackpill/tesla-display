@@ -7,6 +7,13 @@ nav: false
 nav_order: 1
 ---
 <!-- _pages/youtube.md -->
+
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="540" height="960" src="https://www.youtube.com/embed/xv-0JPFkwWE" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 ## 1. Preparation
 All we need is an Android phone.
 Install the Tesla Display app from Google Play.

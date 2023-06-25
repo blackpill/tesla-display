@@ -54,13 +54,6 @@ No, because your Tesla is connected to the hotspot wifi of your mobile phone, th
 ## Can I play video file while I'm driving?
 Due to safety concern, drivers must focused on driving. But passengers can watch video playing on Tesla's screen.
 
-## How can I cast Youtube videos to Tesla's screen?
-<!-- blank line -->
-<figure class="video_container">
-  <iframe width="360" height="640" src="https://www.youtube.com/embed/xv-0JPFkwWE" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-
 ## Does it support full-screen mode in Tesla?
 Yes. First enter the full-screen mode via https://www.fullscreentesla.com, or https://abettertheater.com/, or http://s3xy.top in Tesla's browser, and then add a link to https://td9.cc:7777.
 
