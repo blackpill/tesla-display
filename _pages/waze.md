@@ -16,17 +16,19 @@ Install the Tesla Display app from Google Play.
 We must enable the Wi-Fi hotspot becuase we use is to transfer data between the phone and the Tesla EV.
 Then make sure that the Tesla EV is connected to the Wi-Fi hotspot of your phone.
 ## 3. Config in the Tesla Display app
+<img src="/assets/img/settings-nav.jpg" width="540px">
 Open the Tesla Display app, and click the setting tab.
 We must set the "Mirror Mode" option to "Image Mode" because only "Image Mode" can work while Tesla is in driving mode.
-It's strongly recommended that setting the "Enable remote control" option checked. When it is checked, we can manipulate the Waze app directly on Tesla's touchscreen.
+It's strongly recommended to set the "Enable remote control" option checked. When it is checked, we can manipulate the Waze app directly on Tesla's touchscreen.
 ## 4. Mirror to Tesla's touchscreen
 After setting, click the start button of Tesla Display. After a moment, the phone screen starts mirroring.
-Then open the web browser of Tesla EV, access the URL "https://td9.cc:7777". Now we can see the phone screen in the web browser.
+Then open the web browser of Tesla EV, access the URL <span style="color:blue">https://td9.cc:7777</span>. Now we can see the phone screen in the web browser.
 ## 5. Using the Waze app
+<img src="/assets/img/waze-on-screen.jpg" width="540px">
 Now, we open the Waze app in the phone, and we can see the Waze app is casted to Tesla's touchscreen.
 Then we can set the destination in the Waze app.
 ## 6. About the sound
 Make sure that the Bluetooth is enabled in the phone and connected to the Tesla EV.
 Set the sound source of Tesla to Bluetooth.
-Then we can hear the alert sound of Waze in Tesla's speaker.
+Then we can hear the alert sound of Waze from Tesla's speakers.
 
