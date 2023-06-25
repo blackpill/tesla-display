@@ -10,4 +10,10 @@ children:
     - title: divider
     - title: Google Map
       permalink: /gmap/
+    - title: divider
+    - title: Youtube
+      permalink: /youtube/
+    - title: divider
+    - title: Tiktok
+      permalink: /tiktok/    
 ---
