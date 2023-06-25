@@ -25,7 +25,10 @@ Open the Tesla Display app, and click the setting tab.
 We must set the "Mirror Mode" option to "Image Mode" because only "Image Mode" can work while Tesla is in driving mode.
 It's strongly recommended to set the "Enable remote control" option checked. When it is checked, we can manipulate the Waze app directly on Tesla's touchscreen.
 ## 4. Mirror to Tesla's touchscreen
-After setting, click the start button of Tesla Display. After a moment, the phone screen starts mirroring.
+<p style="text-align: center;">
+<img src="/assets/img/phone-screen.jpg" width="540px">
+</p>
+After setting, click the start button of Tesla Display. Choose "Phone screen". After a moment, the phone screen starts mirroring.
 Then open the web browser of Tesla EV, access the URL <span style="color:blue">https://td9.cc:7777</span>. Now we can see the phone screen in the web browser.
 ## 5. Using the Waze app
 <p style="text-align: center;">
