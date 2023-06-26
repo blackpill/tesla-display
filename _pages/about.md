@@ -55,9 +55,9 @@ No, because your Tesla is connected to the hotspot wifi of your mobile phone, th
 Due to safety concern, drivers must focused on driving. But passengers can watch video playing on Tesla's screen.
 
 ## Which mode should I choose?
-1. Phone screen in image mode: its typical case is using navigator apps such as Waze or Google Map. It can work when the car is in driving mode.
-2. Phone screen in video mode: its typical case is playing videos. It can only work when the Tesla is parked.
-3. Video in this phone or video from internet: In this mode, videos can be played even when Tesla is in driving mode.
+1. <span style="color:blue">Phone screen in image mode</span>: its typical case is using navigator apps such as Waze or Google Map. It can work when your Tesla is in driving mode.
+2. <span style="color:blue">Phone screen in video mode</span>: its typical case is playing videos. It can only work when your Tesla is parked.
+3. <span style="color:blue">Video in this phone / Video from internet</span>: In this mode, videos can be played even when your Tesla is in driving mode.
 
 ## Does it support full-screen mode in Tesla?
 Yes. First enter the full-screen mode via https://www.fullscreentesla.com, or https://abettertheater.com/, or http://s3xy.top in Tesla's browser, and then add a link to https://td9.cc:7777.
