@@ -9,7 +9,7 @@ nav_order: 1
 <!-- _pages/waze.md -->
 <!-- blank line -->
 <figure class="video_container">
-  <iframe width="540" height="960" src="https://www.youtube.com/embed/35bMECpF9bQ" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe width="540" height="303" src="https://www.youtube.com/embed/35bMECpF9bQ" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 ## 1. Preparation
