@@ -21,11 +21,11 @@ social: true  # includes social icons at the bottom of the page
 
 ## Why should I use this app?
 
-1. Play some video files for passengers (eg. kids) to ease the pain of long trip.
+1. Play video files for passengers (eg. kids) to ease the pain of long trip.
 
-2. Share personal videos or use some video apps that is not installed in Tesla.
+2. If you don't like Tesla's built-in navigator, you can use other navigator apps such as Waze, Google Map, and cast it to Tesla's big screen. 
 
-3. In some countries(eg. China), Tesla's built-in navigator app is not good. We can use the mobile navigator app, and cast to Tesla's big screen. 
+3. Share personal videos or use some video apps that is not installed in Tesla.
 
 ## The demo videos of Tesla Display app
 My kid is watching Peppa Pig while I'm driving.
@@ -42,8 +42,14 @@ My kid is watching Peppa Pig while I'm driving.
 </figure>
 <!-- blank line -->
 
-## Is this app free?
-Yes. Only with some advertisement to support the author.
+## Key features:
+1. Free
+2. Can play video even in D-Mode
+3. Can cast Waze, Google Map to Tesla's screen for navigation
+4. Can play video links pasted from Youtube, Tiktok, ESPN, TED, CBC, PBS...
+5. No extra internet traffic
+6. Support playing video in Tesla's full-screen mode with audio
+7. Can control the phone directly on Tesla's touchscreen
 
 ## How to get this app?
 <a href ="https://play.google.com/store/apps/details?id=io.github.blackpill.tesladisplay&referrer=utm_source%3Dgithub%26utm_medium%3Dorganic"><img src="./google-play-badge.svg" height="100px"></a>
