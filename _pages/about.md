@@ -23,7 +23,7 @@ social: true  # includes social icons at the bottom of the page
 
 1. Play video files for passengers (eg. kids) to ease the pain of long trip.
 
-2. If you don't like Tesla's built-in navigator, you can use other navigator apps such as Waze, Google Map, and cast it to Tesla's big screen. 
+2. If you don't like Tesla's built-in navigator, you can use other navigator apps such as Waze, Google Map, Here WeGo and cast it to Tesla's big screen. 
 
 3. Share personal videos or use some video apps that is not installed in Tesla.
 
