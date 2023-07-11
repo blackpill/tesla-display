@@ -28,6 +28,13 @@ social: true  # includes social icons at the bottom of the page
 3. Share personal videos or use some video apps that is not installed in Tesla.
 
 ## The demo videos of Tesla Display app
+Use Waze in Tesla for navigation.
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="390" height="220" src="https://www.youtube.com/embed/35bMECpF9bQ" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 My kid is watching Peppa Pig while I'm driving.
 <!-- blank line -->
 <figure class="video_container">
@@ -35,7 +42,7 @@ My kid is watching Peppa Pig while I'm driving.
 </figure>
 <!-- blank line -->
 
-1080p HD video fullscreen mirror while parked.
+Mirroring a 1080p HD video in fullscreen mode when parked.
 <!-- blank line -->
 <figure class="video_container">
   <iframe width="390" height="220" src="https://www.youtube.com/embed/PkbfoLHjrvE" frameborder="0" allowfullscreen="true"> </iframe>
