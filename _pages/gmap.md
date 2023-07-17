@@ -7,6 +7,11 @@ nav: false
 nav_order: 1
 ---
 <!-- _pages/gmap.md -->
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="540" height="303" src="https://www.youtube.com/embed/92OYkMitWQI" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 ## 1. Preparation
 All we need is an Android phone.
 Install the Tesla Display app from Google Play.
