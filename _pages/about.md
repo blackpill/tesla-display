@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: This free app can cast the small screen of your mobile phone to the big screen of your Tesla.
+subtitle: This free app can mirror the small screen of your mobile phone to the big screen of your Tesla while driving.
 
 profile:
   align: right
@@ -21,21 +21,21 @@ social: true  # includes social icons at the bottom of the page
 
 ## Why should I use this app?
 
-1. Play video files for passengers (eg. kids) to ease the pain of long trip.
+1. Play video files for passengers (eg. kids) while driving to ease the pain of long trip.
 
 2. If you don't like Tesla's built-in navigator, you can use other navigator apps such as Waze, Google Map, Here WeGo and cast it to Tesla's big screen. 
 
 3. Share personal videos or use some video apps that is not installed in Tesla.
 
 ## The demo videos of Tesla Display app
-Use Waze in Tesla for navigation.
+Use Waze in Tesla for navigation while driving.
 <!-- blank line -->
 <figure class="video_container">
   <iframe width="390" height="220" src="https://www.youtube.com/embed/35bMECpF9bQ" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
-My kid is watching Peppa Pig while I'm driving.
+My kid is watching Peppa Pig while driving.
 <!-- blank line -->
 <figure class="video_container">
   <iframe width="390" height="220" src="https://www.youtube.com/embed/Hb4D_IvOjMc" frameborder="0" allowfullscreen="true"> </iframe>
@@ -51,7 +51,7 @@ Mirroring a 1080p HD video in fullscreen mode when parked.
 
 ## Key features:
 1. Free
-2. Can play video even in D-Mode
+2. Can play video while driving
 3. Can cast Waze, Google Map to Tesla's screen for navigation
 4. Can play video links pasted from Youtube, Tiktok, ESPN, TED, CBC, PBS...
 5. No extra internet traffic
