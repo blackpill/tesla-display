@@ -10,7 +10,7 @@ nav_order: 1
 
 <!-- blank line -->
 <figure class="video_container">
-  <iframe width="540" height="960" src="https://www.youtube.com/embed/7sVn00ECFBw" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe width="540" height="303" src="https://www.youtube.com/embed/7sVn00ECFBw" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
