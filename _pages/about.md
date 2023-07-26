@@ -78,3 +78,5 @@ Yes. First enter the full-screen mode via https://www.fullscreentesla.com, or ht
 ## More about this app?
 <p><a href ="https://discord.gg/Tvbs9uWcN9" target="_blank">Join our Discord</a></p>
 <p><a href ="https://groups.google.com/g/tesla-display" target="_blank">Discuss in Google Group <img src="group.png" height=50px></a></p>
+
+<a href="https://www.producthunt.com/products/tesla-display/reviews?utm_source=badge-product_review&utm_medium=badge&utm_souce=badge-tesla&#0045;display" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/product_review.svg?product_id=543738&theme=light" alt="Tesla&#0032;Display - a&#0032;FREE&#0032;app&#0032;to&#0032;mirror&#0032;screen&#0032;or&#0032;cast&#0032;video&#0032;to&#0032;Tesla | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
