@@ -12,6 +12,10 @@ nav_order: 1
   <iframe width="540" height="303" src="https://www.youtube.com/embed/92OYkMitWQI" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
+
+## Get more details?
+<p><a href ="https://discord.gg/Tvbs9uWcN9" target="_blank">Join our Discord</a></p>
+
 ## 1. Preparation
 All we need is an Android phone.
 Install the Tesla Display app from Google Play.
@@ -41,8 +45,11 @@ Then open the web browser of Tesla EV, access the URL <span style="color:blue">h
 </p>
 Now, we open the Google Map app in the phone, and we can see the Google Map app is casted to Tesla's touchscreen.
 Then we can set the destination in the Google Map app.
+
 ## 6. About the sound
 Make sure that the Bluetooth is enabled in the phone and connected to the Tesla EV.
 Set the sound source of Tesla to Bluetooth.
 Then we can hear the alert sound of Google Map from Tesla's speakers.
 
+## Get more details?
+<p><a href ="https://discord.gg/Tvbs9uWcN9" target="_blank">Join our Discord</a></p>

@@ -12,6 +12,10 @@ nav_order: 1
   <iframe width="540" height="303" src="https://www.youtube.com/embed/35bMECpF9bQ" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
+
+## Get more details?
+<p><a href ="https://discord.gg/Tvbs9uWcN9" target="_blank">Join our Discord</a></p>
+
 ## 1. Preparation
 All we need is an Android phone.
 Install the Tesla Display app from Google Play.
@@ -46,3 +50,5 @@ Make sure that the Bluetooth is enabled in the phone and connected to the Tesla 
 Set the sound source of Tesla to Bluetooth.
 Then we can hear the alert sound of Waze from Tesla's speakers.
 
+## Get more details?
+<p><a href ="https://discord.gg/Tvbs9uWcN9" target="_blank">Join our Discord</a></p>

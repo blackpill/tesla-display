@@ -14,6 +14,9 @@ nav_order: 1
 </figure>
 <!-- blank line -->
 
+## Get more details?
+<p><a href ="https://discord.gg/Tvbs9uWcN9" target="_blank">Join our Discord</a></p>
+
 ## 1. Preparation
 All we need is an Android phone.
 Install the Tesla Display app from Google Play.
@@ -52,5 +55,6 @@ Then open the web browser of Tesla EV, access the URL "https://td9.cc:7777".
 Click the play button.
 Now your passengers can enjoy the video when you are driving.
 
-
+## Get more details?
+<p><a href ="https://discord.gg/Tvbs9uWcN9" target="_blank">Join our Discord</a></p>
 
