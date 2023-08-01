@@ -10,6 +10,7 @@ nav_order: 1
 
 ## Get more details?
 <p><a href ="https://discord.gg/Tvbs9uWcN9" target="_blank">Join our Discord</a></p>
+<p><a href ="https://groups.google.com/g/tesla-display" target="_blank">Discuss in Google Group</a></p>
 
 ## 1. Preparation
 All we need is an Android phone.
@@ -51,4 +52,5 @@ Now your passengers can enjoy the video when you are driving.
 
 ## Get more details?
 <p><a href ="https://discord.gg/Tvbs9uWcN9" target="_blank">Join our Discord</a></p>
+<p><a href ="https://groups.google.com/g/tesla-display" target="_blank">Discuss in Google Group</a></p>
 
