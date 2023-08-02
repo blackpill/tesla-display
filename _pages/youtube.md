@@ -31,7 +31,7 @@ Then make sure that the Tesla EV is connected to the Wi-Fi hotspot of your phone
 
 ## 3. Copy video link from Youtube
 <p style="text-align: center;">
-<img src="/assets/img/youtube-share.png" width="540px">
+<img src="/assets/img/youtube-share.png" alt="The screenshot of copying Youtube video link" width="540px">
 </p>
 Open the Youtube app.
 Choose a video you want to play.
@@ -40,7 +40,7 @@ Now the video link is copied to the clipboard.
 
 ## 4. Cast the video in Tesla Display
 <p style="text-align: center;">
-<img src="/assets/img/video-internet.jpg" width="540px">
+<img src="/assets/img/video-internet.jpg" alt="Cast Youtube video in Tesla Display app" width="540px">
 </p>
 Open the Tesla Display app.
 Click the start button.
@@ -50,7 +50,7 @@ After a moment, the app starts casting the video.
 
 ## 5. Play the video on Tesla's screen
 <p style="text-align: center;">
-<img src="/assets/img/youtube-play.jpg" width="540px">
+<img src="/assets/img/youtube-play.jpg" alt="Playing Youtube video while driving Tesla" width="540px">
 </p>
 Then open the web browser of Tesla EV, access the URL "https://td9.cc:7777".
 Click the play button.

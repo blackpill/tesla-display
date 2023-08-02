@@ -29,20 +29,20 @@ We must enable the Wi-Fi hotspot becuase we use is to transfer data between the 
 Then make sure that the Tesla EV is connected to the Wi-Fi hotspot of your phone.
 ## 3. Config in the Tesla Display app
 <p style="text-align: center;">
-<img src="/assets/img/settings-nav.jpg" width="540px">
+<img src="/assets/img/settings-nav.jpg" alt="The settings of Tesla Display app for using Google Maps" width="540px">
 </p>
 Open the Tesla Display app, and click the setting tab.
 We must set the "Mirror Mode" option to "Image Mode" because only "Image Mode" can work while Tesla is in driving mode.
 It's strongly recommended to set the "Enable remote control" option checked. When it is checked, we can manipulate the Google Map app directly on Tesla's touchscreen.
 ## 4. Mirror to Tesla's touchscreen
 <p style="text-align: center;">
-<img src="/assets/img/phone-screen.png" width="540px">
+<img src="/assets/img/phone-screen.png" alt="The start choice of Tesla Display app for using Google Maps" width="540px">
 </p>
 After setting, click the start button of Tesla Display. Choose "Phone screen". After a moment, the phone screen starts mirroring.
 Then open the web browser of Tesla EV, access the URL <span style="color:blue">https://td9.cc:7777</span>. Now we can see the phone screen in the web browser.
 ## 5. Using the Google Map app
 <p style="text-align: center;">
-<img src="/assets/img/gmap-on-screen.jpg" width="540px">
+<img src="/assets/img/gmap-on-screen.jpg" alt="The screenshot of using Google Maps on Tesla's screen" width="540px">
 </p>
 Now, we open the Google Map app in the phone, and we can see the Google Map app is casted to Tesla's touchscreen.
 Then we can set the destination in the Google Map app.

@@ -25,7 +25,7 @@ Then make sure that the Tesla EV is connected to the Wi-Fi hotspot of your phone
 
 ## 3. Copy video link from Tiktok
 <p style="text-align: center;">
-<img src="/assets/img/tiktok-share.jpg" width="540px">
+<img src="/assets/img/tiktok-share.jpg" alt="The screenshot of copying Tiktok video link" width="540px">
 </p>
 Open the Tiktok app.
 Choose a video you want to play.
@@ -34,7 +34,7 @@ Now the video link is copied to the clipboard.
 
 ## 4. Cast the video in Tesla Display
 <p style="text-align: center;">
-<img src="/assets/img/video-internet.jpg" width="540px">
+<img src="/assets/img/video-internet.jpg" alt="Cast Tiktok video in Tesla Display app" width="540px">
 </p>
 Open the Tesla Display app.
 Click the start button.
@@ -44,7 +44,7 @@ After a moment, the app starts casting the video.
 
 ## 5. Play the video on Tesla's screen
 <p style="text-align: center;">
-<img src="/assets/img/tiktok-play.jpg" width="540px">
+<img src="/assets/img/tiktok-play.jpg" alt="Playing Tiktok video while driving Tesla" width="540px">
 </p>
 Then open the web browser of Tesla EV, access the URL <span style="color:blue">https://td9.cc:7777</span>.
 Click the play button.
