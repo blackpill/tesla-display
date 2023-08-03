@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: This free app can mirror the small screen of your mobile phone to the big screen of your Tesla while driving.
 
