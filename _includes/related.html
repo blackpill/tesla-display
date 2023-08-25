@@ -48,14 +48,7 @@
 {% elsif related_by contains "categories" or related_by contains "tags" %}
   {% assign related_posts = "" | split: " " %}
 
-  {% for doc in site.documents %}
-    {% if doc.id == page.id %}
-      {% continue %}
-    {% elsif related_from == "posts" and doc.collection != "posts" %}
-      {% continue %}
-    {% elsif related_from == "collection" and doc.collection != page.collection %}
-      {% continue %}
-    {% endif %}
+  {% for doc in site.pages %}
 
     {% assign related_category_count = 0 %}
     {% if related_by contains "categories" %}
@@ -91,8 +84,8 @@
       {% assign related_posts = related_posts | push: doc %}
     {% endif %}
   {% endfor %}
-
   {% assign related_posts = related_posts | sample: related_limit %}
+
 
 {% comment %}<!-- Use site.related_posts for posts if found -->{% endcomment %}
 {% elsif site.related_posts.size > 0 %}
@@ -104,9 +97,8 @@
 {% endif %}
 
 {% for post in related_posts limit:related_limit %}
-  {% if post.id == page.id %}
+  {% if post.url == page.url %}
     {% continue %}
   {% endif %}
-
   {% include {{ related_template }} type=related_layout %}
 {% endfor %}

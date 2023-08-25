@@ -105,6 +105,7 @@ facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
+
 related_by: tags or categories # Match on categories or tags
 related_limit: 6            # Include 6 related pages
 related_categories: 1       # Match at least 1 category
@@ -162,9 +163,9 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+# external_sources:
+  #- name: medium.com
+  #  rss_url: https://medium.com/@al-folio/feed
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -232,7 +233,7 @@ plugins:
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-toc
-  - jekyll-twitter-plugin
+    #  - jekyll-twitter-plugin
   - jemoji
 
 # Sitemap settings
