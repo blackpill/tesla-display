@@ -59,7 +59,7 @@ Mirroring a 1080p HD video in fullscreen mode when parked.
 7. Can control the phone directly on Tesla's touchscreen
 
 ## How to get this app?
-<a id="googleplay" href ="https://play.google.com/store/apps/details?id=io.github.blackpill.tesladisplay&referrer=utm_source%3Dgithub%26utm_medium%3Dorganic"><img src="./google-play-badge.svg" height="100px"></a>
+<a id="googleplay" href ="https://play.google.com/store/apps/details?id=io.github.blackpill.tesladisplay&referrer=utm_source%3Dgithub%26utm_medium%3Dorganic"><img src="/assets/img/google-play-badge.svg" height="100px"></a>
 
 ## Will it spend extra internet traffic?
 No, because your Tesla is connected to the hotspot wifi of your mobile phone, the screen data is transfered through the local wifi. 

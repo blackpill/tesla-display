@@ -25,7 +25,7 @@ img_height: 960
 All we need is an Android phone.
 Install the Tesla Display app from Google Play.
 <p style="text-align: center;">
-<a id="googleplay" href ="https://play.google.com/store/apps/details?id=io.github.blackpill.tesladisplay&referrer=utm_source%3Dgithub%26utm_medium%3Dorganic"><img src="./google-play-badge.svg" height="100px"></a>
+<a id="googleplay" href ="https://play.google.com/store/apps/details?id=io.github.blackpill.tesladisplay&referrer=utm_source%3Dgithub%26utm_medium%3Dorganic"><img src="/assets/img/google-play-badge.svg" height="100px"></a>
 </p>
 
 ## 2. Enable the WiFi hotspot of your phone
