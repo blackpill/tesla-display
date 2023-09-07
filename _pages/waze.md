@@ -6,6 +6,9 @@ description: We can cast the Waze app to Tesla's big touchscreen while driving, 
 nav: false
 nav_order: 1
 categories: tutorial
+img_url: /assets/img/waze-on-screen.jpg
+img_width: 540
+img_height: 960
 ---
 <!-- _pages/waze.md -->
 <!-- blank line -->
@@ -25,7 +28,7 @@ Install the Tesla Display app from Google Play.
 <a id="googleplay" href ="https://play.google.com/store/apps/details?id=io.github.blackpill.tesladisplay&referrer=utm_source%3Dgithub%26utm_medium%3Dorganic"><img src="./google-play-badge.svg" height="100px"></a>
 </p>
 
-## 2. Enable the WiFi hotspot in your phone
+## 2. Enable the WiFi hotspot of your phone
 We must enable the Wi-Fi hotspot becuase we use is to transfer data between the phone and the Tesla EV.
 Then make sure that the Tesla EV is connected to the Wi-Fi hotspot of your phone.
 ## 3. Config in the Tesla Display app

@@ -10,3 +10,29 @@
     step_url: /gmap/#4-mirror-to-teslas-touchscreen
   - step_name: Using the Google Map app
     step_url: /gmap/#5-using-the-google-map-app
+
+- page: waze.md
+  steps:
+  - step_name: Preparation
+    step_url: /gmap/#1-preparation
+  - step_name: Enable the WiFi hotspot of your phone
+    step_url: /gmap/#2-enable-the-wifi-hotspot-of-your-phone
+  - step_name: Config in the Tesla Display app
+    step_url: /gmap/#3-config-in-the-tesla-display-app
+  - step_name: Mirror to Tesla’s touchscreen
+    step_url: /gmap/#4-mirror-to-teslas-touchscreen
+  - step_name: Using the Waze app
+    step_url: /gmap/#5-using-the-waze-app
+
+- page: tiktok.md
+  steps:
+  - step_name: Preparation
+    step_url: /gmap/#1-preparation
+  - step_name: Enable the WiFi hotspot of your phone
+    step_url: /gmap/#2-enable-the-wifi-hotspot-of-your-phone
+  - step_name: Copy video link from Tiktok
+    step_url: /gmap/#3-copy-video-link-from-tiktok
+  - step_name: Cast the video in Tesla Display
+    step_url: /gmap/#4-cast-the-video-in-tesla-display
+  - step_name: Play the video on Tesla's screen
+    step_url: /gmap/#5-play-the-video-on-teslas-screen
