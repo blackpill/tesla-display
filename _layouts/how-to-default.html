@@ -41,7 +41,10 @@
                   "url": "{{ site.url }}{{ curr_step.step_url}}",
                   "name": "{{ curr_step.step_name }}",
                   "text": "{{ curr_step.step_name }}"
-                }, 
+                }
+                {%- unless forloop.last -%}
+                  ,
+                {%- endunless -%}
               {%- endfor -%}
               {%- break -%}
             {%- endif -%}
