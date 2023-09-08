@@ -18,7 +18,10 @@ children:
       permalink: /tiktok/
     - title: divider
     - title: Karaoke
-      permalink: /karaoke/      
+      permalink: /karaoke/
+    - title: divider
+    - title: Hotspot
+      permalink: /hotspot/         
     - title: divider
     - title: FLAC
       permalink: https://tlplayer.com  
