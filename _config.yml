@@ -233,6 +233,7 @@ plugins:
   - jekyll/scholar
   - jekyll-sitemap
   - jekyll-toc
+  - jekyll-seo-tag
     #  - jekyll-twitter-plugin
   - jemoji
 

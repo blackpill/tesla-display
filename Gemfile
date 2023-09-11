@@ -14,11 +14,12 @@ group :jekyll_plugins do
     gem 'jekyll-sitemap'
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
+    gem 'jekyll-seo-tag'
     gem 'jemoji'
-    gem 'mini_racer'
+    # gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
-end
+    end
 group :other_plugins do
     gem 'feedjira'
     gem 'httparty'

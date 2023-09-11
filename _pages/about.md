@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: Tesla Display
 permalink: /
 subtitle: This free app can mirror the small screen of your mobile phone to the big screen of your Tesla while driving.
 
@@ -17,6 +17,9 @@ profile:
 # latest_posts: true  # includes a list of the newest posts
 # selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+canonical_url: 'https://tesladisplay.com'
+seo:
+  name: Tesla Display
 ---
 
 ## Why should I use this app?
