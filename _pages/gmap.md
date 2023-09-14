@@ -22,7 +22,9 @@ img_height: 1920
 <p><a href ="https://groups.google.com/g/tesla-display" target="_blank">Discuss in Google Group</a></p>
 
 ## 1. Preparation
-All we need is an Android phone.
+<p>All we need is an Android phone.</p>
+<p>If you are using iPhone, you can try <a href="https://amzn.to/3PE7HMm" target="_blank">CarlinKit</a> to use CarPlay in Tesla.</p>
+<p style="text-align: center;"><a href="https://www.amazon.com/CarlinKit-Wireless-CarPlay-Android-Adapter/dp/B0BXNJ8KQK?crid=30TFRJXKWG1D5&keywords=tesla+carplay&qid=1694687031&sprefix=tesla+c%2Caps%2C1786&sr=8-3&linkCode=li2&tag=blackpill07-20&linkId=732491c46598c61df630ba2ce91b1881&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0BXNJ8KQK&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=blackpill07-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=blackpill07-20&language=en_US&l=li2&o=1&a=B0BXNJ8KQK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
 Install the Tesla Display app from Google Play.
 <p style="text-align: center;">
 <a id="googleplay" href ="https://play.google.com/store/apps/details?id=io.github.blackpill.tesladisplay&referrer=utm_source%3Dgithub%26utm_medium%3Dorganic"><img src="/assets/img/google-play-badge.svg" height="100px"></a>
