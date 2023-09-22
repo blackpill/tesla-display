@@ -31,8 +31,10 @@ Install the Tesla Display app from Google Play.
 </p>
 
 ## 2. Enable the WiFi hotspot of your phone
-We must enable the Wi-Fi hotspot becuase we use is to transfer data between the phone and the Tesla EV.
-Then make sure that the Tesla EV is connected to the Wi-Fi hotspot of your phone.
+<p>We must enable the Wi-Fi hotspot becuase we use is to transfer data between the phone and the Tesla EV.
+Then make sure that the Tesla EV is connected to the Wi-Fi hotspot of your phone.</p>
+<p><span style="color: red"><b>IMPORTANT!!!</b></span> The option "Remain connected in Drive" must be checked.</p>
+<img src="/assets/img/wifi-connected.jpg" height="500px"></a>
 ## 3. Config in the Tesla Display app
 <p style="text-align: center;">
 <img src="/assets/img/settings-nav.jpg" alt="The settings of Tesla Display app for using Waze" width="540px">
