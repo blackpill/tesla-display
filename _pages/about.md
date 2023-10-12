@@ -30,7 +30,7 @@ seo:
 
 3. Share personal videos or use some video apps that is not installed in Tesla.
 
-## The demo videos of Tesla Display app
+## Demo videos of this app
 Use Waze in Tesla for navigation while driving.
 <!-- blank line -->
 <figure class="video_container">
