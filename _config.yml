@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Tesla Display - a FREE app to mirror screen or cast video to Tesla # the website title (if blank, full name will be used instead)
+title: TeslaDisplay/TslaDisplay - a FREE app to mirror screen or cast video to Tesla # the website title (if blank, full name will be used instead)
 subtitle: 
 first_name: 
 middle_name: 
@@ -13,7 +13,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   screen of your Tesla while driving.
 footer_text: >
 
-keywords: Tesla, Mirror, Android, app, screen mirror, while driving  # add your own keywords or leave empty
+keywords: Tesla, Mirror, Android, iOS, app, screen mirror, while driving  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: logo.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
