@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /privacy/
-title: Privacy Policy of Tesla Display App
-description: Privacy Policy of Tesla Display App
+title: Privacy Policy of TslaDisplay App
+description: Privacy Policy of TslaDisplay App
 nav: false
 nav_order: 1
 categories: tutorial
