@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: ios
 permalink: /privacy/
 title: Privacy Policy of TslaDisplay App
 description: Privacy Policy of TslaDisplay App
 nav: false
 nav_order: 1
+dropdown: false
 categories: tutorial
 ---
 <!-- _pages/privacy.md -->
