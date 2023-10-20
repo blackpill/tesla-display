@@ -15,9 +15,11 @@ categories: tutorial
 TesConnect can help you connect your WireGuard node wherever you are. More than a WireGuard client, it can help your find your services on your node, for example, your Web server on your node. Consequently, you can access your services directly using this app.
 
 **Future**
+
 It will support more VPN protocols, such as OpenVPN.
 
 **Important Notes**
+
 TesConnect is only a client tool. It doesn't provide any VPN services.
 
 **Contact Us**
