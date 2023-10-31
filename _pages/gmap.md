@@ -4,6 +4,7 @@ permalink: /gmap/
 title: How to use Google Map in Tesla's touchscreen?
 description: We can cast the Google Map app to Tesla's big touchscreen while driving, and can even manipulate the Google Map app on Tesla's touchscreen directly.
 nav: false
+social: true  # includes social icons at the bottom of the page
 nav_order: 1
 categories: tutorial
 img_url: /assets/img/gmap-on-screen.jpg

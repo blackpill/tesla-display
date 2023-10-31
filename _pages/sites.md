@@ -4,7 +4,7 @@ permalink: /sites/
 title: Supported video sites
 description: Tesla Display can parse the video links from supported video sites, eg. Youtube, Tiktok.
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 <!-- _pages/sites.md -->
 ## What type of video URL address this app can support?

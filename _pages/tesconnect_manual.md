@@ -6,7 +6,6 @@ description: Manual of TesConnect App
 nav: false
 nav_order: 1
 dropdown: false
-categories: tutorial
 ---
 <!-- _pages/tesconnect_manual.md -->
 

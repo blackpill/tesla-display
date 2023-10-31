@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 port: 4001
-title: TeslaDisplay/TslaDisplay - a FREE app to mirror screen or cast video to Tesla # the website title (if blank, full name will be used instead)
+title: TeslaDisplay/TesConnect - a FREE app to mirror screen or cast video to Tesla # the website title (if blank, full name will be used instead)
 subtitle: 
 first_name: 
 middle_name: 
@@ -111,7 +111,7 @@ related_limit: 6            # Include 6 related pages
 related_categories: 1       # Match at least 1 category
 related_tags: 1             # AND at least 1 tag.
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Your feedbacks and advices are important!
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

@@ -7,7 +7,6 @@ nav: false
 nav_order: 1
 dropdown: false
 related_posts: false
-categories: tutorial
 ---
 <!-- _pages/privacy.md -->
 
