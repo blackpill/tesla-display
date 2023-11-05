@@ -1,5 +1,5 @@
 ---
-layout: how-to
+layout: page
 title: iOS
 permalink: /ios/
 nav: true
