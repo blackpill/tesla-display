@@ -23,10 +23,11 @@ img_height: 1920
 <p><a href ="https://groups.google.com/g/tesla-display" target="_blank">Discuss in Google Group</a></p>
 
 ## 1. Preparation
-For Android users, download TeslaDisplay app from Google Play.
+For Android users
 <a id="googleplay" href ="https://play.google.com/store/apps/details?id=io.github.blackpill.tesladisplay&referrer=utm_source%3Dgithub%26utm_medium%3Dorganic"><img src="/assets/img/google-play-badge.svg" height="100px"></a>
 
-For iOS users, please redirect to <a href="/ios/">TesConnect</a>.
+For iOS users
+<a id="appstore" href ="https://apps.apple.com/app/tesconnect/id6469987744"><img src="/assets/img/app-store-badge.png" height="100px"></a>
 
 ## 2. Enable the WiFi hotspot of your phone
 <p>We must enable the Wi-Fi hotspot becuase we use is to transfer data between the phone and the Tesla EV.

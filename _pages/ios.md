@@ -5,6 +5,7 @@ permalink: /ios/
 nav: true
 nav_order: 1
 categories: tutorial
+related_posts: false
 subtitle: This free app can mirror the small screen of your mobile phone to the big screen of your Tesla while driving.
 
 profile:
@@ -25,14 +26,18 @@ seo:
   name: TesConnect
 ---
 ## Key features of TesConnect:
-1. Free
-2. Can cast Waze, Google Map to Tesla's screen for navigation
-3. No extra internet traffic
+1. Play video for passengers when you are driving
+2. Let you use navigation apps such as Waze, Google Map, Here WeGo, MAPS.ME on Tesla's screen
+3. Cast video files on your phone to Tesla's screen for passengers
+4. Cast Youtube, Tiktok, ESPN, TED Talk, CBC, PBS videos to Tesla's screen for passengers
+5. No extra internet traffic
 
 ## Features under development
-1. Can play video while driving
-2. Can play video links pasted from Youtube, Tiktok, ESPN, TED, CBC, PBS...
-3. Support playing video in Tesla's full-screen mode with audio
+1. Support playing video in Tesla's full-screen mode with audio
+2. Support playlist
+3. Support play audio only for Youtube video
+4. Support more video formats
+5. Support more video sites
 
 ## How to get this app?
 <a id="appstore" href ="https://apps.apple.com/app/tesconnect/id6469987744"><img src="/assets/img/app-store-badge.png" height="100px"></a>
