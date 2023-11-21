@@ -1,8 +1,8 @@
 ---
 layout: ios
 permalink: /tesconnect_privacy/
-title: Privacy Policy of TesConnect App
-description: Privacy Policy of TesConnect App
+title: Privacy Policy of TesDisplay App
+description: Privacy Policy of TesDisplay App
 nav: false
 related_posts: false
 nav_order: 1
@@ -12,21 +12,21 @@ dropdown: false
 
 **Privacy Policy**
 
-TCool LTD built the TesConnect app as a Free app. This SERVICE is provided by TCool LTD at no cost and is intended for use as is.
+TCool LTD built the TesDisplay app as a free app with in-app purchase. This SERVICE is provided by TCool LTD at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at TesConnect unless otherwise defined in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at TesDisplay unless otherwise defined in this Privacy Policy.
 
 **Data Collection and Usage**
 
-TesConnect does not collect or retain any personal information or data from its users. We are committed to maintaining a zero-data retention policy. We do not store, record, or monitor any user activity on our servers.
+TesDisplay does not collect or retain any personal information or data from its users. We are committed to maintaining a zero-data retention policy. We do not store, record, or monitor any user activity on our servers.
 
 **Data Transmission**
 
-TesConnect is designed to provide you with a secure and private internet connection. The app does not send your data to our servers. Instead, it allows you to connect to your own VPN servers or a VPN service of your choice. Data transmission and storage are solely the responsibility of your selected VPN service. Please review the privacy policy of your chosen VPN provider to understand their data handling practices.
+TesDisplay is designed to provide you with a secure and private internet connection. The app does not send your data to our servers. Instead, it allows you to connect to your own VPN servers or a VPN service of your choice. Data transmission and storage are solely the responsibility of your selected VPN service. Please review the privacy policy of your chosen VPN provider to understand their data handling practices.
 
 **Security**
 
