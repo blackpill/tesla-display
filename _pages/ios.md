@@ -23,9 +23,9 @@ profile:
 social: true  # includes social icons at the bottom of the page
 canonical_url: 'https://tesladisplay.com/ios/'
 seo:
-  name: TesConnect
+  name: TesDisplay
 ---
-## Key features of TesConnect:
+## Key features of TesDisplay:
 1. Play video for passengers when you are driving
 2. Let you use navigation apps such as Waze, Google Map, Here WeGo, MAPS.ME on Tesla's screen
 3. Cast video files on your phone to Tesla's screen for passengers
@@ -40,7 +40,7 @@ seo:
 5. Support more video sites
 
 ## How to get this app?
-<a id="appstore" href ="https://apps.apple.com/app/tesconnect/id6469987744"><img src="/assets/img/app-store-badge.png" height="100px"></a>
+<a id="appstore" href ="https://apps.apple.com/app/TesDisplay/id6469987744"><img src="/assets/img/app-store-badge.png" height="100px"></a>
 
 ## Will it spend extra internet traffic?
 No, because your Tesla is connected to the hotspot wifi of your mobile phone, the screen data is transfered through the local wifi. 

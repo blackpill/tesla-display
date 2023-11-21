@@ -1,7 +1,7 @@
 ---
 layout: ios
 permalink: /tesconnect_manual/
-title: Manual of TesConnect App
+title: Manual of TesDisplay App
 description: An iOS app can cast phone screen or video while driving.
 nav: false
 nav_order: 1
@@ -11,7 +11,7 @@ dropdown: false
 
 **Quick start**
 
-TesConnect can cast phone screen or video to the big screen of Tesla vehicle.
+TesDisplay can cast phone screen or video to the big screen of Tesla vehicle.
 1. Add a VPN configuration. For most users, please use default config.
 2. Click the Start button, and choose what to cast.
 3. Enable personal hotspot of your iPhone.
@@ -40,5 +40,5 @@ TesConnect can cast phone screen or video to the big screen of Tesla vehicle.
 
 **Contact us**
 
-If you have any questions or suggestions about our TesConnect App, do not hesitate to contact us at <a href="mailto:dev@tcool.ltd">dev@tcool.ltd</a>.
+If you have any questions or suggestions about our TesDisplay App, do not hesitate to contact us at <a href="mailto:dev@tcool.ltd">dev@tcool.ltd</a>.
 <p><a href ="https://discord.gg/Tvbs9uWcN9" target="_blank">Join our Discord</a></p>
