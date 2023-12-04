@@ -10,4 +10,4 @@ dropdown: false
 
 **Shortcut**
 This shortcut can enable cellular network and personal hotspot with one click.
-<p><a href ="https://www.icloud.com/shortcuts/1e13a58d9377457189f35176af4f70b4">Add the shortcut</a></p>
+<p><a href ="https://www.icloud.com/shortcuts/4422ab0bae34465fbd293ed878812e23">Add the shortcut</a></p>
