@@ -25,6 +25,21 @@ canonical_url: 'https://tesladisplay.com/ios/'
 seo:
   name: TesDisplay
 ---
+## Demo videos of this app
+How to mirror iPhone screen to Tesla?
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="390" height="220" src="https://www.youtube.com/embed/7gpRzQRM3uk" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+Fast mirror iPhone screen to Tesla via Automation.
+<!-- blank line -->
+<figure class="video_container">
+  <iframe width="390" height="220" src="https://www.youtube.com/embed/RuW6pdcY930" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 ## Key features of TesDisplay:
 1. Play video for passengers when you are driving
 2. Let you use navigation apps such as Waze, Google Map, Here WeGo, MAPS.ME on Tesla's screen
