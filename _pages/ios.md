@@ -64,6 +64,9 @@ No, because your Tesla is connected to the hotspot wifi of your mobile phone, th
 <p><span style="color: red"><b>IMPORTANT!!!</b></span>If you cannot use while driving, you should check the option "Remain connected in Drive" in the WiFi setting dialog on Tesla's screen.</p>
 <img src="/assets/img/wifi-connected.jpg" height="500px"></a>
 
+## How to get prepared easily?
+<p>You can get ready to mirror automatically via <a href="/tesconnect_shortcut">the shortcut provided</a></p>
+
 ## More about this app?
 <p><a href ="https://discord.gg/Tvbs9uWcN9" target="_blank">Join our Discord</a></p>
 <p><a href ="https://groups.google.com/g/tesla-display" target="_blank">Discuss in Google Group <img src="group.png" height=50px></a></p>
