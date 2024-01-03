@@ -73,7 +73,7 @@ No, because your Tesla is connected to the hotspot wifi of your mobile phone, th
 
 ## Why I cannot use while driving?
 <p><span style="color: red"><b>IMPORTANT!!!</b></span>If you cannot use while driving, you should check the option "Remain connected in Drive" in the WiFi setting dialog on Tesla's screen.</p>
-<img src="/assets/img/wifi-connected.jpg" height="500px"></a>
+<img src="/assets/img/wifi-connected.jpg" height="500px">
 
 ## Can I play video file while I'm driving?
 Due to safety concern, drivers must focused on driving. But passengers can watch video playing on Tesla's screen.
