@@ -177,6 +177,11 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
+  videos:
+    defaults:
+      layout: post
+    output: true
+    permalink: /videos/:path/
   projects:
     output: true
     permalink: /projects/:path/
@@ -243,6 +248,11 @@ defaults:
       path: "assets"
     values:
       sitemap: false
+  - scope:
+      path: ""
+      type: "videos"
+    values:
+      layout: "video"      
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
@@ -340,6 +350,7 @@ imagemagick:
     - ".jpeg"
     - ".png"
     - ".tiff"
+    - ".gif"
   output_formats:
     webp: "-resize 800x"
 

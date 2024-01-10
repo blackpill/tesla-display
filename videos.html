@@ -1,0 +1,21 @@
+---
+layout: default
+title: Videos
+permalink: /videos/
+nav: true
+nav_order: 2
+---
+
+<ul class="video-list">
+  {% for video in site.videos %}
+    <li>
+      <div class="row">
+        <div class="col-sm mt-md-0">
+            {% include video.html path=video.link class="img-fluid rounded z-depth-1" %}
+        </div>
+      </div>
+      <h2 class="video-title"><a href="{{ video.url }}">{{ video.name }}</a></h2>
+    </li>
+  {% endfor %}
+</ul>
+

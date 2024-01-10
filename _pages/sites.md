@@ -4,7 +4,7 @@ permalink: /sites/
 title: Supported video sites
 description: Tesla Display can parse the video links from supported video sites, eg. Youtube, Tiktok.
 nav: true
-nav_order: 2
+nav_order: 3
 categories: tutorial
 ---
 <!-- _pages/sites.md -->
