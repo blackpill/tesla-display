@@ -33,21 +33,21 @@ seo:
 ## Demo videos of this app
 Use Waze in Tesla for navigation while driving.
 <!-- blank line -->
-<figure class="video_container">
+<figure class="video-container">
   <iframe width="390" height="220" src="https://www.youtube.com/embed/35bMECpF9bQ" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
 My kid is watching Peppa Pig while driving.
 <!-- blank line -->
-<figure class="video_container">
+<figure class="video-container">
   <iframe width="390" height="220" src="https://www.youtube.com/embed/Hb4D_IvOjMc" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
 Mirroring a 1080p HD video in fullscreen mode when parked.
 <!-- blank line -->
-<figure class="video_container">
+<figure class="video-container">
   <iframe width="390" height="220" src="https://www.youtube.com/embed/PkbfoLHjrvE" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->

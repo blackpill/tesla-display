@@ -15,14 +15,14 @@ You can easily get ready to mirror via the shortcut above.
 
 Video #1: the final outcome
 <!-- blank line -->
-<figure class="video_container">
+<figure class="video-container">
   <iframe width="390" height="220" src="https://www.youtube.com/embed/RuW6pdcY930" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
 Video #2: how to make this automation script
 <!-- blank line -->
-<figure class="video_container">
+<figure class="video-container">
   <iframe width="390" height="220" src="https://www.youtube.com/embed/1BsxD9QPwvg" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->

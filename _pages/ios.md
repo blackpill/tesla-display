@@ -28,14 +28,14 @@ seo:
 ## Demo videos of this app
 How to mirror iPhone screen to Tesla?
 <!-- blank line -->
-<figure class="video_container">
+<figure class="video-container">
   <iframe width="390" height="220" src="https://www.youtube.com/embed/7gpRzQRM3uk" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
 Fast mirror iPhone screen to Tesla via Automation.
 <!-- blank line -->
-<figure class="video_container">
+<figure class="video-container">
   <iframe width="390" height="220" src="https://www.youtube.com/embed/RuW6pdcY930" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->

@@ -10,7 +10,7 @@ categories: tutorial
 <!-- _pages/hotspot.md -->
 
 <!-- blank line -->
-<!-- <figure class="video_container">
+<!-- <figure class="video-container">
   <iframe width="540" height="303" src="https://www.youtube.com/embed/7sVn00ECFBw" frameborder="0" allowfullscreen="true"> </iframe>
 </figure> -->
 <!-- blank line -->
