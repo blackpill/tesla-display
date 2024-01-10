@@ -331,6 +331,7 @@ external_links:
   rel: external nofollow noopener
   target: _blank
   exclude:
+    - https://tlplayer.com
 
 
 # -----------------------------------------------------------------------------
