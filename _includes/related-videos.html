@@ -26,7 +26,7 @@
 
 {% assign related_by = page.related_by | default: site.related_by | default: "default" %}
 {% if related_by.first != true %}{% assign related_by = related_by | split: " " %}{% endif %}
-{% assign related_limit = page.related_limit | default: site.related_limit | default: 4 %}
+{% assign related_limit = 3 %}
 {% assign related_from = page.related_from | default: site.related_from | default: documents %}
 {% assign related_categories = page.related_categories | default: site.related_categories | default: 1 %}
 {% assign related_tags = page.related_tags | default: site.related_tags | default: 1 %}
