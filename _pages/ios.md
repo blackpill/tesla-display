@@ -1,5 +1,6 @@
 ---
 layout: page
+seotitle: TesDisplay - mirror iPhone screen or cast videos to Tesla
 title: iOS
 permalink: /ios/
 nav: true

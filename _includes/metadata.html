@@ -23,13 +23,15 @@
     {%- else -%}
         {%- capture title -%}{{ site.title }}{%- endcapture -%}
     {%- endif -%}
-    {% if page.url == '/blog/index.html' %}
+    {%- if page.seotitle != nil -%}
+        {{ page.seotitle }}
+    {%- elsif page.url == '/blog/index.html' -%}
         {{ site.blog_nav_title }} | {{ title }}
     {%- elsif page.title != "blank" and page.url != "/" -%}
         {%- if page.title == nil or page.title == "" -%}
             {{ page.date | date: "%Y" }} | {{ title }}
         {%- else -%}
-            {{ page.title }} | {{ title }}
+            {{ page.title }} - {{ site.shorttitle }}
         {%- endif -%}
     {%- else -%}
         {{ title }}
