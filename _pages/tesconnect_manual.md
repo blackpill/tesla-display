@@ -8,7 +8,11 @@ nav_order: 1
 dropdown: false
 ---
 <!-- _pages/tesconnect_manual.md -->
-
+<!-- blank line -->
+<figure class="video-container">
+  <iframe width="540" height="303" src="https://www.youtube.com/embed/gxGi8oQ0bmM" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
 **Quick start**
 
 TesDisplay can cast phone screen or video to the big screen of Tesla vehicle.
