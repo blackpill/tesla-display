@@ -9,45 +9,31 @@
         <video:thumbnail_loc>https://img.youtube.com/vi/1BsxD9QPwvg/default.jpg</video:thumbnail_loc>
         <video:title>How to create automation to get ready quickly to mirror your phone screen to Tesla</video:title>
         <video:description> Automate iPhone Screen Mirroring to Tesla | Effortless Setup Guide
-
 Discover how to effortlessly configure your iPhone for seamless screen mirroring on your Tesla's impressive touchscreen every time you step into your Tesla vehicle.
-
-🔍 What You'll see:
-
+What You'll see:
 Establishing Bluetooth connectivity between your iPhone and Tesla for audio transmission
 Configuring the TesDisplay app for swift activation using shortcuts
 Creating an automation in the Shortcuts app for automatic screen mirroring activation
-🔧 Step-by-Step Breakdown:
-
+Step-by-Step Breakdown:
 Connect your iPhone's audio to your Tesla via Bluetooth. (Note: Check for potential dual Bluetooth connections on your iPhone, ensuring the audio link to your Tesla is established.)
 Within the TesDisplay app, set up a shortcut to instantly enable cellular data, activate the personal hotspot, and launch TesDisplay.
 Using the Shortcuts app, craft a new automation: locate and select Bluetooth, choose your Tesla, set it to trigger when 'Is connected,' and opt for 'Run Immediately.' Link this to the 'Start TesDisplay' shortcut for seamless integration.
 Follow these steps to ensure your iPhone smoothly mirrors its screen onto your Tesla display as soon as you enter your vehicle.
-
-🚗 Why It's Valuable:
+Why It's Valuable:
 Automating this process elevates your driving experience, granting effortless access to your iPhone's functionalities and apps directly on your Tesla's touchscreen.
-
-🔗 Tools Used:
-
+Tools Used:
 TesDisplay app
 Shortcuts app (for automation setup)
 Bluetooth settings configuration
-
 *Download TesDisplay App here: 
 https://apps.apple.com/app/tesdisplay...
-
 *Android version:
 https://play.google.com/store/apps/de...
-
 Official website
 https://tesladisplay.com
-
 Join our Discord
- 
-
- / discord  
-
-🙌 Thank You for Watching!
+https://discord.gg/Tvbs9uWcN9
+Thank You for Watching!
 For more tech insights and helpful guides, consider subscribing, and drop a comment with your feedback or any queries you might have!</video:description>
         <video:tag>Tesla</video:tag>
         <video:tag>Tesla Display</video:tag>
@@ -57,7 +43,7 @@ For more tech insights and helpful guides, consider subscribing, and drop a comm
         <video:tag>Model S</video:tag>
         <video:tag>Model X</video:tag>
         <video:tag>Tesla Screen</video:tag>
-        <video:category>Autos & Vehicles</video:category>
+        <video:category>Autos Vehicles</video:category>
         </video:video>
     </url>
 </urlset>
