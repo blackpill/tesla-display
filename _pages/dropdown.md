@@ -4,6 +4,7 @@ title: How-To
 nav: true
 nav_order: 6
 dropdown: true
+sitemap: false
 children: 
     - title: Waze
       permalink: /waze/
