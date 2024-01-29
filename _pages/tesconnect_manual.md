@@ -2,7 +2,7 @@
 layout: ios
 permalink: /tesconnect_manual/
 title: Manual of TesDisplay App
-description: An iOS app can cast phone screen or video while driving.
+description: An iOS app can cast phone screen or video to Tesla while driving.
 nav: false
 nav_order: 1
 dropdown: false
@@ -20,19 +20,42 @@ TesDisplay can cast phone screen or video to the big screen of Tesla vehicle.
 2. Click the Start button, and choose what to cast.
 3. Enable personal hotspot of your iPhone.
 4. Turn to your Tesla vehicle, connect your vehicle to the hotspot.
-5. In the web browser of your Tesla, access https://i.td9.cc:7777, and see the mirrored screen.
+5. In the web browser of your Tesla, access https://tesdisplay.com, and see the mirrored screen.
 
 **<span style="color: red"><b>IMPORTANT!!!</b></span>**
 
 <p>If you cannot use while driving, you should check the option "Remain connected in Drive" in the WiFi setting dialog on Tesla's screen.</p>
 <img src="/assets/img/wifi-connected.jpg" width="350px">
 
+**Audio**
+
+Phone audio can be tranferred via Bluetooth.
+
+**Video apps can be mirrored**
+
+Due to DRM limits, some video apps cannot be mirrored to Telsa's screen.
+Based on our test, the following iOS video apps can be mirrored.
+The app list will keep updating.
+
+- Youtube
+- Youtube Kids
+- Tiktok
+- DailyMotion
+- Plex
+- Twitch
+- PBS
+- PBS Kids
+- TED Talks
+- Khan Academy
+- Rumble
+- Vimeo
+
+
 **Other notes**
 
 1. Don't lock your phone screen while casting, otherwise the service will stop.
 2. Don't switch to other apps while casting video, otherwise the service will stop.
 3. Currently, only MP4 video format is supported. Video files should be "Saved to Files" before casting.
-4. Live video stream on Youtube or Tiktok are not supported yet.
 
 **Future features**
 
