@@ -15,6 +15,7 @@ categories: tutorial
 | Youtube      | app            | app           |
 | Youtube Kids | app            | app           |
 | Tiktok       | app            | app           |
+| Twitch       | app            | app           |
 | <a href='/demo-dailymotion'>DailyMotion</a>  | app            | app           |
 | PBS          | app            | app           |
 | PBS Kids     | app            | app           |
@@ -22,11 +23,14 @@ categories: tutorial
 | Khan Academy | app            | app           |
 | <a href='/demo-plex'>Plex</a>         | app            | app           |
 | Rumble       | app            | app           |
-| Twitch       | app            | app           |
 | Vimeo        | app            | app           |
+| Zeus         | app            | app           |
+| Crunchyroll  | web            | Unsupported   |
 | Tubi         | web            | Unsupported   |
 | Vix          | web            | Unsupported   |
+| CBS          | desktop web    | Unsupported   |
 | Paramount+   | desktop web    | Unsupported   |
+| Pluto.tv     | desktop web    | Unsupported   |
 
 
 ## Video URL that can be casted to Tesla's screen
