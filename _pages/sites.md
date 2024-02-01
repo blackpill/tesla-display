@@ -15,13 +15,13 @@ categories: tutorial
 | Youtube      | app            | app           |
 | Youtube Kids | app            | app           |
 | Tiktok       | app            | app           |
-| Twitch       | app            | app           |
+| <a href='/demo-twitch'>Twitch</a>            | app            | app           |
 | <a href='/demo-dailymotion'>DailyMotion</a>  | app            | app           |
 | PBS          | app            | app           |
 | PBS Kids     | app            | app           |
 | TED Talks    | app            | app           |
-| Khan Academy | app            | app           |
-| <a href='/demo-plex'>Plex</a>         | app            | app           |
+| <a href='/demo-khan'>Khan Academy</a>        | app            | app           |
+| <a href='/demo-plex'>Plex</a>                | app            | app           |
 | Rumble       | app            | app           |
 | Vimeo        | app            | app           |
 | Zeus         | app            | app           |
