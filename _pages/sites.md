@@ -2,13 +2,34 @@
 layout: page
 permalink: /sites/
 title: Supported video sites
-description: Tesla Display can parse the video links from supported video sites, eg. Youtube, Tiktok.
+description: TeslaDisplay can cast videos from supported apps/sites (Youtube, Tiktok) to Tesla.
 nav: true
 nav_order: 3
 categories: tutorial
 ---
 <!-- _pages/sites.md -->
-## What type of video URL address this app can support?
+## Video sites/apps that can be mirrored to Tesla's screen
+
+| Name         | Android        | iOS           |
+| :----------- | :------------  | :------------ |
+| Youtube      | app            | app           |
+| Youtube Kids | app            | app           |
+| Tiktok       | app            | app           |
+| <a href='/demo-dailymotion'>DailyMotion</a>  | app            | app           |
+| PBS          | app            | app           |
+| PBS Kids     | app            | app           |
+| TED Talks    | app            | app           |
+| Khan Academy | app            | app           |
+| <a href='/demo-plex'>Plex</a>         | app            | app           |
+| Rumble       | app            | app           |
+| Twitch       | app            | app           |
+| Vimeo        | app            | app           |
+| Tubi         | web            | Unsupported   |
+| Vix          | web            | Unsupported   |
+| Paramount+   | desktop web    | Unsupported   |
+
+
+## Video URL that can be casted to Tesla's screen
 <p name="video_url" id="video_url">The app can support two types of video URL</p>
 1. The URL address that links to the video file directly. Usually it ends up with a video file suffix (eg. mp4, avi).
 2. The URL address from supported video platforms below:
