@@ -18,6 +18,12 @@ img_height: 960
 </figure>
 <!-- blank line -->
 
+<!-- blank line -->
+<figure class="video-container">
+  <iframe width="540" height="303" src="https://www.youtube.com/embed/YQ69_F5WMqw" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 ## Get more details?
 <p><a href ="https://discord.gg/Tvbs9uWcN9" target="_blank">Join our Discord</a></p>
 <p><a href ="https://groups.google.com/g/tesla-display" target="_blank">Discuss in Google Group</a></p>
