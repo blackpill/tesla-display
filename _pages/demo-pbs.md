@@ -10,7 +10,7 @@ categories: tutorial
 ---
 <!-- blank line -->
 <figure class="video-container">
-  <iframe width="540" height="303" src="https://www.youtube.com/embed/Vv_XydbPZzU" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe width="540" height="303" src="https://www.youtube.com/embed/Ez3uHBH5BF8" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
 
