@@ -17,8 +17,8 @@ categories: tutorial
 | Tiktok       | app            | app           |
 | <a href='/demo-twitch'>Twitch</a>            | app            | app           |
 | <a href='/demo-dailymotion'>DailyMotion</a>  | app            | app           |
-| PBS          | app            | app           |
-| PBS Kids     | app            | app           |
+| <a href='/demo-pbs'>PBS</a>                  | app            | app           |
+| <a href='/demo-pbskids'>PBS Kids</a>         | app            | app           |
 | <a href='/demo-ted'>TED Talks</a>            | app            | app           |
 | <a href='/demo-khan'>Khan Academy</a>        | app            | app           |
 | <a href='/demo-plex'>Plex</a>                | app            | app           |
