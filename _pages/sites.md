@@ -19,10 +19,10 @@ categories: tutorial
 | <a href='/demo-dailymotion'>DailyMotion</a>  | app            | app           |
 | PBS          | app            | app           |
 | PBS Kids     | app            | app           |
-| TED Talks    | app            | app           |
+| <a href='/demo-ted'>TED Talks</a>            | app            | app           |
 | <a href='/demo-khan'>Khan Academy</a>        | app            | app           |
 | <a href='/demo-plex'>Plex</a>                | app            | app           |
-| Rumble       | app            | app           |
+| <a href='/demo-rumble'>Rumble</a>            | app            | app           |
 | Vimeo        | app            | app           |
 | Zeus         | app            | app           |
 | Crunchyroll  | web            | Unsupported   |
