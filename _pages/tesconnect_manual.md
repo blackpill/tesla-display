@@ -40,15 +40,16 @@ The app list will keep updating.
 - Youtube
 - Youtube Kids
 - Tiktok
-- DailyMotion
-- Plex
-- Twitch
-- PBS
-- PBS Kids
-- TED Talks
-- Khan Academy
-- Rumble
+- <a href='/demo-twitch'>Twitch</a>
+- <a href='/demo-dailymotion'>DailyMotion</a>
+- <a href='/demo-plex'>Plex</a>
+- <a href='/demo-pbs'>PBS</a>
+- <a href='/demo-pbskids'>PBS Kids</a>
+- <a href='/demo-ted'>TED Talks</a>
+- <a href='/demo-khan'>Khan Academy</a>
+- <a href='/demo-rumble'>Rumble</a>
 - Vimeo
+- Zeus
 
 
 **Other notes**
