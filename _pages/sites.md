@@ -13,17 +13,17 @@ categories: tutorial
 | Name         | Android        | iOS           |
 | :----------- | :------------  | :------------ |
 | Youtube      | app            | app           |
-| Youtube Kids | app            | app           |
+| <a href='/demo-youtube-kids'>Youtube Kids</a> | app            | app           |
 | Tiktok       | app            | app           |
-| <a href='/demo-twitch'>Twitch</a>            | app            | app           |
-| <a href='/demo-dailymotion'>DailyMotion</a>  | app            | app           |
-| <a href='/demo-pbs'>PBS</a>                  | app            | app           |
-| <a href='/demo-pbskids'>PBS Kids</a>         | app            | app           |
-| <a href='/demo-ted'>TED Talks</a>            | app            | app           |
-| <a href='/demo-khan'>Khan Academy</a>        | app            | app           |
-| <a href='/demo-plex'>Plex</a>                | app            | app           |
-| <a href='/demo-rumble'>Rumble</a>            | app            | app           |
-| Vimeo        | app            | app           |
+| <a href='/demo-twitch'>Twitch</a>             | app            | app           |
+| <a href='/demo-dailymotion'>DailyMotion</a>   | app            | app           |
+| <a href='/demo-pbs'>PBS</a>                   | app            | app           |
+| <a href='/demo-pbskids'>PBS Kids</a>          | app            | app           |
+| <a href='/demo-ted'>TED Talks</a>             | app            | app           |
+| <a href='/demo-khan'>Khan Academy</a>         | app            | app           |
+| <a href='/demo-plex'>Plex</a>                 | app            | app           |
+| <a href='/demo-rumble'>Rumble</a>             | app            | app           |
+| <a href='/demo-vimeo'>Vimeo</a>               | app            | app           |
 | Zeus         | app            | app           |
 | Crunchyroll  | web            | Unsupported   |
 | Tubi         | web            | Unsupported   |
