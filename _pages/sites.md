@@ -24,7 +24,7 @@ categories: tutorial
 | <a href='/demo-plex'>Plex</a>                 | app            | app           |
 | <a href='/demo-rumble'>Rumble</a>             | app            | app           |
 | <a href='/demo-vimeo'>Vimeo</a>               | app            | app           |
-| Zeus         | app            | app           |
+| <a href='/demo-zeus'>Zeus</a>                 | app            | app           |
 | Crunchyroll  | web            | Unsupported   |
 | Tubi         | web            | Unsupported   |
 | Vix          | web            | Unsupported   |
