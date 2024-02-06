@@ -2,7 +2,7 @@
 layout: page
 permalink: /demo-rumble/
 title: How to cast Rumble videos to Tesla's screen?
-description: We can cast Rumble videos to Tesla's screen for passengers while driving, and we can even manipulate the the Rumble app on Tesla's touchscreen directly.
+description: We can cast Rumble videos to Tesla's screen for passengers while driving, and we can even manipulate the Rumble app on Tesla's touchscreen directly.
 nav: false
 social: true  # includes social icons at the bottom of the page
 nav_order: 1

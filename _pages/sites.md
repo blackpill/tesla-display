@@ -27,10 +27,14 @@ categories: tutorial
 | <a href='/demo-zeus'>Zeus</a>                 | app            | app           |
 | <a href='/demo-crunchyroll'>Crunchyroll</a>   | web            | Unsupported   |
 | Tubi         | web            | Unsupported   |
-| Vix          | web            | Unsupported   |
+| <a href='/demo-vix'>Vix</a>                   | web            | Unsupported   |
 | CBS          | desktop web    | Unsupported   |
 | Paramount+   | desktop web    | Unsupported   |
 | Pluto.tv     | desktop web    | Unsupported   |
+
+app: means we can mirror video in app
+web: means we can only mirror video using mobile web browser
+desktop web: means we can only mirror video in desktop site mode using mobile web browser
 
 
 ## Video URL that can be casted to Tesla's screen

@@ -2,7 +2,7 @@
 layout: page
 permalink: /demo-twitch/
 title: How to cast Twitch live videos to Tesla's screen?
-description: We can cast Twitch live videos to Tesla's screen for passengers while driving, and we can even manipulate the the Twitch app on Tesla's touchscreen directly.
+description: We can cast Twitch live videos to Tesla's screen for passengers while driving, and we can even manipulate the Twitch app on Tesla's touchscreen directly.
 nav: false
 social: true  # includes social icons at the bottom of the page
 nav_order: 1
