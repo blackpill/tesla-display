@@ -29,7 +29,7 @@ categories: tutorial
 | Tubi         | web            | Unsupported   |
 | <a href='/demo-vix'>Vix</a>                   | web            | Unsupported   |
 | CBS          | desktop web    | Unsupported   |
-| Paramount+   | desktop web    | Unsupported   |
+| <a href='/demo-paramount'>Paramount+</a>      | desktop web    | Unsupported   |
 | Pluto.tv     | desktop web    | Unsupported   |
 
 app: means we can mirror video in app
