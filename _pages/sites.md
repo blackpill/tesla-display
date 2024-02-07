@@ -32,9 +32,9 @@ categories: tutorial
 | <a href='/demo-paramount'>Paramount+</a>      | desktop web    | Unsupported   |
 | <a href='/demo-pluto'>Pluto.tv</a>            | desktop web    | Unsupported   |
 
-app: means we can mirror video in app
-web: means we can only mirror video using mobile web browser
-desktop web: means we can only mirror video in desktop site mode using mobile web browser
+<p>app: means we can mirror video in app</p>
+<p>web: means we can only mirror video using mobile web browser</p>
+<p>desktop web: means we can only mirror video in desktop site mode using mobile web browser</p>
 
 
 ## Video URL that can be casted to Tesla's screen
