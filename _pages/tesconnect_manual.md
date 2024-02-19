@@ -31,7 +31,7 @@ TesDisplay can cast phone screen or video to the big screen of Tesla vehicle.
 
 Phone audio can be tranferred via Bluetooth.
 
-**Video apps can be mirrored**
+<a id="video_apps">**Video apps can be mirrored**</a>
 
 Due to DRM limits, some video apps cannot be mirrored to Telsa's screen.
 Based on our test, the following iOS video apps can be mirrored.
@@ -48,8 +48,8 @@ The app list will keep updating.
 - <a href='/demo-ted'>TED Talks</a>
 - <a href='/demo-khan'>Khan Academy</a>
 - <a href='/demo-rumble'>Rumble</a>
-- Vimeo
-- Zeus
+- <a href='/demo-vimeo'>Vimeo</a>
+- <a href='/demo-zeus'>Zeus</a>
 
 
 **Other notes**
