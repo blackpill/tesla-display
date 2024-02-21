@@ -70,4 +70,4 @@ No, because your Tesla is connected to the hotspot wifi of your mobile phone, th
 
 ## More about this app?
 <p><a href ="https://discord.gg/Tvbs9uWcN9" target="_blank">Join our Discord</a></p>
-<p><a href ="https://groups.google.com/g/tesla-display" target="_blank">Discuss in Google Group <img src="group.png" height=50px></a></p>
+<p><a href ="https://groups.google.com/g/tesla-display" target="_blank">Discuss in Google Group <img src="/group.png" height=50px></a></p>
