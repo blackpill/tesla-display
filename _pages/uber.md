@@ -22,10 +22,10 @@ For iOS users
 <p>We must enable the Wi-Fi hotspot becuase we use is to transfer data between the phone and the Tesla EV.
 Then make sure that the Tesla EV is connected to the Wi-Fi hotspot of your phone.</p>
 <p><span style="color: red"><b>IMPORTANT!!!</b></span> The option "Remain connected in Drive" must be checked.</p>
-<img src="/assets/img/wifi-connected.jpg" height="500px"></a>
+<img src="/assets/img/wifi-connected.jpg" height="300px"></a>
 ## 3. Config in the Tesla Display app
 <p style="text-align: center;">
-<img src="/assets/img/settings-nav.jpg" alt="The settings of Tesla Display app for using Uber" width="540px">
+<img src="/assets/img/settings-nav.jpg" alt="The settings of Tesla Display app for using Uber" height="400px">
 </p>
 Open the Tesla Display app, and click the setting tab.
 It's strongly recommended to set the "Control on touchscreen" option checked. When it is checked, we can manipulate the Uber app directly on Tesla's touchscreen.
@@ -35,7 +35,7 @@ It's strongly recommended to set the "Control on touchscreen" option checked. Wh
 </p>
 After setting, click the start button of Tesla Display. Choose "Phone screen when driving". After a moment, the phone screen starts mirroring.
 Then open the web browser of Tesla EV, access the URL <span style="color:blue">https://td9.cc:7777</span>. Now we can see the phone screen in the web browser.
-## 5. Using the Uber app
+## 5. Open the Uber app
 Now, we open the Uber app in the phone, and we can see the Uber app is casted to Tesla's touchscreen.
 ## 6. About the sound
 Make sure that the Bluetooth is enabled in the phone and connected to the Tesla EV.
