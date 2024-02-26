@@ -34,11 +34,11 @@ Then make sure that the Tesla EV is connected to the Wi-Fi hotspot of your phone
 
 ## 3. Mirror the phone screen in Tesla Display
 <p style="text-align: center;">
-<img src="/assets/img/image-mode.png" alt="The start choice of Tesla Display app for playing karaoke songs" width="540px">
+<img src="/assets/img/phone-screen.jpg" alt="The start choice of Tesla Display app for playing karaoke songs" width="540px">
 </p>
 Open the Tesla Display app.
 Click the start button.
-Choose "Phone screen in Image mode".
+Choose "Phone screen when driving".
 After a moment, the app starts mirroring the screen.
 
 ## 4. Open the karaoke app in your phone
