@@ -22,10 +22,10 @@ For iOS users
 <p>We must enable the Wi-Fi hotspot becuase we use is to transfer data between the phone and the Tesla EV.
 Then make sure that the Tesla EV is connected to the Wi-Fi hotspot of your phone.</p>
 <p><span style="color: red"><b>IMPORTANT!!!</b></span> The option "Remain connected in Drive" must be checked.</p>
-<img src="/assets/img/wifi-connected.jpg" height="300px"></a>
+<img src="/assets/img/wifi-connected.jpg" height="300px">
 ## 3. Config in the Tesla Display app
 <p style="text-align: center;">
-<img src="/assets/img/settings-nav.jpg" alt="The settings of Tesla Display app for using Uber" height="400px">
+<img src="/assets/img/settings-nav.jpg" alt="The settings of Tesla Display app for using Uber" height="500px">
 </p>
 Open the Tesla Display app, and click the setting tab.
 It's strongly recommended to set the "Control on touchscreen" option checked. When it is checked, we can manipulate the Uber app directly on Tesla's touchscreen.
