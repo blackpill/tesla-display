@@ -9,7 +9,9 @@ nav_order: 1
 categories: tutorial
 ---
 
-Many people asked is it possible to mirror phone screen to Tesla via Airplay? Unfortunately, Tesla vehicle does not support Airplay. However, we can use TeslaDisplay/TesDisplay app to mirror phone screen to Tesla. This article gives you a step-by-step tutorial.
+Many people asked is it possible to mirror phone screen to Tesla via Airplay? Unfortunately, Tesla vehicle does not support Airplay. 
+
+However, we can use TeslaDisplay/TesDisplay app to mirror phone screen to Tesla. This article gives you a step-by-step tutorial.
 
 <!-- blank line -->
 <figure class="video-container">
