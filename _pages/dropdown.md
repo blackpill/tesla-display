@@ -21,6 +21,9 @@ children:
     - title: Uber
       permalink: /uber/
     - title: divider
+    - title: Airplay
+      permalink: /airplay/
+    - title: divider
     - title: Karaoke
       permalink: /karaoke/
     - title: divider
