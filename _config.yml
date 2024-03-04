@@ -9,6 +9,7 @@ first_name:
 middle_name: 
 last_name: 
 email: blackpill@msn.com
+og_image: "/assets/img/logo.png"
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A FREE screen mirror app for Tesla owners. This app can mirror your small screen of your mobile phone to the large
   screen of your Tesla while driving.
