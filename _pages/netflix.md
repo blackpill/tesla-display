@@ -20,6 +20,7 @@ App install links:
 <a id="TesDisplay" href="https://apps.apple.com/app/tesdisplay-screen-mirror/id6469987744"><img src="/assets/img/logo.png" height="100px"></a>
 <a id="FireFox" href="https://apps.apple.com/app/firefox-private-safe-browser/id989804926"><img src="/assets/img/firefox.webp" height="100px"></a>
 </p>
+If you don't have an iPad with cellular, you can see the other supported <a href="/sites">video sites/apps</a>.
 
 ## 2. Enable the WiFi hotspot of your iPad
 <p>We must enable the Wi-Fi hotspot becuase we use is to transfer data between the iPad and the Tesla EV.
