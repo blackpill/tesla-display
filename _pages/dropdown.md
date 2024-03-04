@@ -15,6 +15,9 @@ children:
     - title: Youtube
       permalink: /youtube/
     - title: divider
+    - title: Netflix
+      permalink: /netflix/
+    - title: divider
     - title: Tiktok
       permalink: /tiktok/
     - title: divider

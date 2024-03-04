@@ -12,9 +12,10 @@ categories: tutorial
 
 | Name         | Android        | iOS           |
 | :----------- | :------------  | :------------ |
-| Youtube      | app            | app           |
+| <a href='/youtube'>Youtube</a>                | app            | app           |
+| <a href='/netflix'>Netflix</a>                | Unsupported    | iPad web      |
 | <a href='/demo-youtube-kids'>Youtube Kids</a> | app            | app           |
-| Tiktok       | app            | app           |
+| <a href='/tiktok'>Tiktok</a>                  | app            | app           |
 | <a href='/demo-twitch'>Twitch</a>             | app            | app           |
 | <a href='/demo-dailymotion'>DailyMotion</a>   | app            | app           |
 | <a href='/demo-pbs'>PBS</a>                   | app            | app           |
