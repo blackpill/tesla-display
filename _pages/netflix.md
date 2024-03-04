@@ -11,6 +11,12 @@ categories: tutorial
 
 Passengers are always tired and dull for a long trip. This article will show you how to cast Netflix videos to Tesla's big touchscreen for your passengers while driving. Note that you must obey the local traffic rules and the video is only for passengers, not for drivers. Drviers must keep focused on driving.
 
+<!-- blank line -->
+<figure class="video-container">
+  <iframe width="540" height="303" src="https://www.youtube.com/embed/O31JLO208nQ" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 ## 1. Preparation
 You should have an iPad(iPad mini/iPad/iPad air/iPad Pro) with cellular.
 And install <a href ="https://apps.apple.com/app/tesdisplay-screen-mirror/id6469987744">TesDisplay</a> and <a href="https://apps.apple.com/app/firefox-private-safe-browser/id989804926">FireFox</a> from AppStore.
