@@ -27,6 +27,9 @@ children:
     - title: Airplay
       permalink: /airplay/
     - title: divider
+    - title: CarPlay
+      permalink: /carplay/
+    - title: divider
     - title: Karaoke
       permalink: /karaoke/
     - title: divider

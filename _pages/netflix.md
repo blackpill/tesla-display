@@ -36,9 +36,9 @@ Then make sure that the Tesla EV is connected to the Wi-Fi hotspot of your iPad.
 
 ## 3. Mirror to Tesla's touchscreen
 <p style="text-align: center;">
-<img src="/assets/img/ipad-screen.jpg" alt="The start choice of TesDisplay app for using Uber" width="540px">
+<img src="/assets/img/ipad-screen.jpg" alt="The start choice of TesDisplay app for using Netflix" width="540px">
 </p>
-After setting, click the start button of Tesla Display. Choose "Phone screen". After a moment, the iPad screen starts mirroring.
+After setting, click the start button of TesDisplay. Choose "Phone screen". After a moment, the iPad screen starts mirroring.
 Then open the web browser of Tesla EV, access the URL <span style="color:blue">https://tesdisplay.com</span>. Now we can see the iPad screen in the web browser.
 
 ## 4. Access Netflix using Firefox
