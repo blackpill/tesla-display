@@ -27,15 +27,15 @@ categories: tutorial
 | <a href='/demo-vimeo'>Vimeo</a>               | app            | app           |
 | <a href='/demo-zeus'>Zeus</a>                 | app            | app           |
 | <a href='/demo-crunchyroll'>Crunchyroll</a>   | web            | Unsupported   |
-| Tubi         | web            | Unsupported   |
+| Tubi         | web            | web   |
 | <a href='/demo-vix'>Vix</a>                   | web            | Unsupported   |
 | CBS          | desktop web    | Unsupported   |
 | <a href='/demo-paramount'>Paramount+</a>      | desktop web    | Unsupported   |
-| <a href='/demo-pluto'>Pluto.tv</a>            | desktop web    | Unsupported   |
+| <a href='/demo-pluto'>Pluto.tv</a>            | desktop web    | web           |
 
 <p>app: means we can mirror video in app</p>
-<p>web: means we can only mirror video using mobile web browser</p>
-<p>desktop web: means we can only mirror video in desktop site mode using mobile web browser</p>
+<p>web: means we can only mirror video using Firefox web browser</p>
+<p>desktop web: means we can only mirror video in desktop site mode using Firefox web browser</p>
 
 
 ## Video URL that can be casted to Tesla's screen
