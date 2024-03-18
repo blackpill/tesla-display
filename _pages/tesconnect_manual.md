@@ -50,6 +50,8 @@ The app list will keep updating.
 - <a href='/demo-rumble'>Rumble</a>
 - <a href='/demo-vimeo'>Vimeo</a>
 - <a href='/demo-zeus'>Zeus</a>
+- Tubitv (using Firefox browser)
+- Pluto.tv (using Firefox browser)
 
 
 **Other notes**
