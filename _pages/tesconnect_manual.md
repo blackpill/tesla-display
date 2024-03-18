@@ -27,6 +27,10 @@ TesDisplay can cast phone screen or video to the big screen of Tesla vehicle.
 <p>If you cannot use while driving, you should check the option "Remain connected in Drive" in the WiFi setting dialog on Tesla's screen.</p>
 <img src="/assets/img/wifi-connected.jpg" width="350px">
 
+**Note for Tesla vehicles with MCU1 or MCU2(Intel Atom)**
+<p>Because of the limited performance of Tesla MCU1/MCU2, the setting "Decode video by phone" should be enabled.</p>
+<img src="/assets/img/mcu-setting.jpg" width="350px">
+
 **Audio**
 
 Phone audio can be tranferred via Bluetooth.
