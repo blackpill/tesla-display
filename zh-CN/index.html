@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <!-- Head -->
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">    <!-- Metadata, OpenGraph and Schema.org -->
+    
+
+    <!-- Standard metadata -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>TeslaDisplay/TesDisplay  - 一个免费的应用程序来镜像屏幕或将视频投放到特斯拉</title>
+    <meta name="author" content="  ">
+    <!-- <meta name="description" content="A FREE screen mirror app for Tesla owners. This app can mirror your small screen of your mobile phone to the large screen of your Tesla while driving.
+" /> -->
+    <meta name="keywords" content="Tesla, Mirror, Android, iOS, app, screen mirror, while driving">
+
+
+    <!-- Bootstrap & MDB -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha256-DF7Zhf293AJxJNTmh5zhoYYIMs2oXitRfBjY+9L//AY=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/css/mdb.min.css" integrity="sha256-jpjYvU3G3N6nrrBwXJoVEYI/0zw8htfFnhT9ljN3JJw=" crossorigin="anonymous">
+
+    <!-- Bootstrap Table -->
+    <link defer rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.21.4/dist/bootstrap-table.min.css">
+
+    <!-- Fonts & Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css" integrity="sha256-mUZM63G8m73Mcidfrv5E+Y61y7a12O5mW4ezU3bxqW4=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.1/css/academicons.min.css" integrity="sha256-i1+4qU2G2860dGGIOJscdC30s9beBXjFfzjWLjBRsBg=" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons">
+
+    <!-- Code Syntax Highlighting -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/github.css" media="" id="highlight_theme_light">
+
+    
+
+    <!-- Styles -->
+    
+    <link rel="shortcut icon" href="/zh-CN/assets/img/logo.png">
+    
+    <link rel="stylesheet" href="/zh-CN/assets/css/main.css">
+    <link rel="canonical" href="https://tesladisplay.com/zh-CN/">
+
+    <!-- Dark Mode -->
+    
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jwarby/jekyll-pygments-themes@master/native.css" media="none" id="highlight_theme_dark">
+
+    <script src="/assets/js/theme.js"></script>
+    <script src="/assets/js/dark_mode.js"></script>
+    
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<meta name="generator" content="Jekyll v4.3.3">
+<meta property="og:title" content="TeslaDisplay/TesDisplay - 一个免费的应用程序来镜像屏幕或将视频投放到特斯拉">
+<meta property="og:locale" content="zh_CN">
+<meta name="description" content="A FREE screen mirror app for Tesla owners. This app can mirror your small screen of your mobile phone to the large screen of your Tesla while driving.">
+<meta property="og:description" content="A FREE screen mirror app for Tesla owners. This app can mirror your small screen of your mobile phone to the large screen of your Tesla while driving.">
+<link rel="canonical" href="https://tesladisplay.com">
+<meta property="og:url" content="https://tesladisplay.com">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="TeslaDisplay/TesDisplay - 一个免费的应用程序来镜像屏幕或将视频投放到特斯拉">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","description":"A FREE screen mirror app for Tesla owners. This app can mirror your small screen of your mobile phone to the large screen of your Tesla while driving.","headline":"TeslaDisplay/TesDisplay - 一个免费的应用程序来镜像屏幕或将视频投放到特斯拉","name":"Tesla Display","url":"https://tesladisplay.com"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4197847608048079" crossorigin="anonymous"></script>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SELGLCTSNF"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-SELGLCTSNF');
+    
+    </script>
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+          var hm = document.createElement("script");
+          hm.src = "https://hm.baidu.com/hm.js?0e0def3b4bf6289213f0a9b9d7b74445";
+          var s = document.getElementsByTagName("script")[0]; 
+          s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+        
+  </head>
+
+  <!-- Body -->
+  <body class="fixed-top-nav ">
+
+    <!-- Header -->
+    <header>
+
+      <!-- Nav Bar -->
+      <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top">
+        <div class="container">
+          
+          <!-- Navbar Toggle -->
+          <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar top-bar"></span>
+            <span class="icon-bar middle-bar"></span>
+            <span class="icon-bar bottom-bar"></span>
+          </button>
+
+          <div class="collapse navbar-collapse text-right" id="navbarNav">
+            <ul class="navbar-nav ml-auto flex-nowrap">
+
+              <!-- About -->
+              <li class="nav-item active">
+                <a class="nav-link" href="/zh-CN/">TeslaDisplay<span class="sr-only">(current)</span></a>
+              </li>
+              
+
+              <!-- Other pages -->
+              <li class="nav-item ">
+                <a class="nav-link" href="/zh-CN/ios/">iOS</a>
+              </li>
+              <li class="nav-item ">
+                <a class="nav-link" href="/zh-CN/videos/">Videos</a>
+              </li>
+              <li class="nav-item ">
+                <a class="nav-link" href="/zh-CN/sites/">Supported video sites</a>
+              </li>
+              <li class="nav-item dropdown ">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">How-To</a>
+                <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/zh-CN/waze/">Waze</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/zh-CN/gmap/">Google Map</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/zh-CN/youtube/">Youtube</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/zh-CN/netflix/">Netflix</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/zh-CN/tiktok/">Tiktok</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/zh-CN/uber/">Uber</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/zh-CN/airplay/">Airplay</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/zh-CN/carplay/">CarPlay</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/zh-CN/karaoke/">Karaoke</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="/zh-CN/hotspot/">Hotspot</a>
+                  <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="https://tlplayer.com">FLAC</a>
+                </div>
+              </li>
+<!-- Toogle language -->
+              
+              
+              
+              <li class="nav-item active">
+                
+                <a class="nav-link" href="/">
+                  
+                  EN</a>
+                
+              </li>
+              
+              
+
+              <!-- Toogle theme mode -->
+              <li class="toggle-container">
+                <button id="light-toggle" title="Change theme">
+                  <i class="fas fa-moon"></i>
+                  <i class="fas fa-sun"></i>
+                </button>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+
+    </header>
+
+
+    <!-- Content -->
+    <div class="container mt-5">
+      
+        <!-- about.html -->
+      <div class="post">
+        <header class="post-header">
+          <h1 class="post-title">
+           
+              TeslaDisplay/TesDisplay  - 一个免费的应用程序来镜像屏幕或将视频投放到特斯拉
+           
+          </h1>
+          <p class="desc">这个免费的应用程序可以在开车时将手机的小屏幕镜像到特斯拉的大屏幕上。</p>
+        </header>
+
+        <article>
+          <div class="profile float-right">
+          </div>
+
+          <div class="clearfix">
+            <h2 id="我为什么要使用此应用">我为什么要使用此应用？</h2>
+
+<ol>
+  <li>
+    <p>播放乘客（例如儿童）的视频文件，同时开车减轻长途旅行的痛苦。</p>
+  </li>
+  <li>
+    <p>如果您不喜欢特斯拉的内置导航器，则可以使用其他导航器应用，例如Waze，Google Map，Here WeGo 并将其投放到特斯拉的大屏幕上。</p>
+  </li>
+  <li>
+    <p>分享个人视频或使用Tesla中未安装的一些视频应用程序。</p>
+  </li>
+</ol>
+
+<h2 id="此应用程序的演示视频">此应用程序的演示视频</h2>
+<p>在开车时使用特斯拉的Waze进行导航。
+<!-- blank line --></p>
+<figure class="video-container">
+  <iframe width="390" height="220" src="https://www.youtube.com/embed/35bMECpF9bQ" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+<p>我的孩子在开车时看着Peppa Pig。
+<!-- blank line --></p>
+<figure class="video-container">
+  <iframe width="390" height="220" src="https://www.youtube.com/embed/Hb4D_IvOjMc" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+<p>停放时以全屏模式镜像1080p高清视频。
+<!-- blank line --></p>
+<figure class="video-container">
+  <iframe width="390" height="220" src="https://www.youtube.com/embed/PkbfoLHjrvE" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
+<h2 id="主要特征">主要特征:</h2>
+<ol>
+  <li>免费应用程序</li>
+  <li>可以在开车时播放视频</li>
+  <li>可以将Waze，Google Map投入到特斯拉的屏幕上进行导航</li>
+  <li>可以播放从YouTube，Tiktok，ESPN，TED，CBC，PBS粘贴的视频链接…</li>
+  <li>没有额外的互联网流量</li>
+  <li>支持在特斯拉的全屏模式下播放视频</li>
+  <li>可以直接在特斯拉的触摸屏上控制手机</li>
+</ol>
+
+<h2 id="如何获取此应用程序">如何获取此应用程序？</h2>
+<p>适用于Android用户
+<a id="googleplay" href="https://play.google.com/store/apps/details?id=io.github.blackpill.tesladisplay&amp;referrer=utm_source%3Dgithub%26utm_medium%3Dorganic" rel="external nofollow noopener" target="_blank">
+  <img src="/assets/img/google-play-badge.svg" alt="Get Tesla Display from Google Play" height="100px">
+</a></p>
+
+<p>适用于iOS用户
+<a id="appstore" href="https://apps.apple.com/app/tesdisplay-screen-mirror/id6469987744" rel="external nofollow noopener" target="_blank">
+  <img src="/assets/img/app-store-badge.png" alt="Get TesDisplay from AppStore" height="100px">
+</a></p>
+
+<h2 id="它会花费额外的互联网流量吗">它会花费额外的互联网流量吗？</h2>
+<p>不，因为您的特斯拉连接到手机的热点WiFi，所以屏幕数据通过本地WiFi传输。</p>
+
+<h2 id="为什么我在开车时无法使用">为什么我在开车时无法使用？</h2>
+<p>
+<span style="color: red"><b>IMPORTANT!!!</b></span>
+如果您在开车时无法使用，则应检查选项"Remain connected in Drive" 在特斯拉屏幕上的WiFi设置对话框中。
+</p>
+<p><img src="/assets/img/wifi-connected.jpg" alt="Remain connected in Drive setting" height="500px"></p>
+
+<h2 id="我开车时可以播放视频文件吗">我开车时可以播放视频文件吗？</h2>
+<p>由于安全问题，驾驶员必须专注于驾驶。但是乘客可以在特斯拉屏幕上观看播放视频。</p>
+
+<h2 id="我应该选择哪种模式">我应该选择哪种模式？</h2>
+<ol>
+  <li>
+<span style="color:blue">开车时电话屏幕</span>: 它的典型情况是使用导航器应用程序，例如Waze或Google Map。当您的特斯拉处于驾驶模式时，它可以起作用。</li>
+  <li>
+<span style="color:blue">停放的电话屏幕</span>: 它的典型情况是播放视频。只有在您的特斯拉停放时，它才能起作用。</li>
+  <li>
+<span style="color:blue">这款手机中的视频</span>: 在这种模式下，即使在开车时也可以播放手机中的视频。</li>
+  <li>
+<span style="color:blue">来自互联网的视频</span>: 在这种模式下，即使在开车时也可以播放互联网的视频。</li>
+</ol>
+
+<h2 id="它是否支持特斯拉的全屏模式">它是否支持特斯拉的全屏模式？</h2>
+<p>是的。首先通过https://www.fullscreentesla.com， 或者https://abettertheater.com/， 或者http://s3xy.top 在特斯拉的浏览器中，然后添加一个链接到https://td9.cc:7777。</p>
+
+<h2 id="有关此应用程序的更多信息">有关此应用程序的更多信息？</h2>
+<p> <a href="https://discord.gg/Tvbs9uWcN9" rel="external nofollow noopener" target="_blank">加入我们的Discord</a> </p>
+<p>
+<a href="https://groups.google.com/g/tesla-display" rel="external nofollow noopener" target="_blank">在Google组中讨论
+<img src="group.png" alt="TeslaDisplay Google Group" height="50px">
+</a>
+</p>
+
+<p><a href="https://www.producthunt.com/products/tesla-display/reviews?utm_source=badge-product_review&amp;utm_medium=badge&amp;utm_souce=badge-tesla-display" rel="external nofollow noopener" target="_blank">
+<img src="https://api.producthunt.com/widgets/embed-image/v1/product_review.svg?product_id=543738&amp;theme=light" alt="Tesla Display - a FREE app to mirror screen or cast video to Tesla | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54">
+</a></p>
+
+
+          </div>
+
+          <!-- News -->
+          
+
+          <!-- Latest posts -->
+          
+
+          <!-- Selected papers -->
+          
+
+          <!-- Social -->
+            <div class="social">
+              <div class="contact-icons">
+                <a href="mailto:%62%6C%61%63%6B%70%69%6C%6C@%6D%73%6E.%63%6F%6D" title="email"><i class="fas fa-envelope"></i></a>
+            <a href="https://twitter.com/RatelKwang" title="Twitter" rel="external nofollow noopener" target="_blank"><i class="fab fa-twitter"></i></a>
+            <a href="/zh-CN/feed.xml" title="RSS Feed"><i class="fas fa-rss-square"></i></a>
+            
+
+              </div>
+
+              <div class="contact-note">
+                Your feedbacks and advices are important!
+
+              </div>
+
+            </div>
+        </article>
+
+</div>
+
+      
+    </div>
+
+    <!-- Footer -->    
+    <footer class="fixed-bottom">
+      <div class="container mt-0">
+        © Copyright 2024   . Last updated: March 27, 2024.
+      </div>
+    </footer>
+
+    <!-- JavaScripts -->
+    <!-- jQuery -->
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+
+    <!-- Bootsrap & MDB scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js" integrity="sha256-fgLAgv7fyCGopR/gBNq2iW3ZKIdqIcyshnUULC4vex8=" crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mdbootstrap@4.20.0/js/mdb.min.js" integrity="sha256-NdbiivsvWt7VYCt6hYNT3h/th9vSTL4EDWeGs5SN3DA=" crossorigin="anonymous"></script>
+
+    <!-- Masonry & imagesLoaded -->
+  <script defer src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha256-Nn1q/fx0H7SNLZMQ5Hw5JLaTRZp0yILA/FRexe19VdI=" crossorigin="anonymous"></script>
+  <script defer src="https://cdn.jsdelivr.net/npm/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+  <script defer src="/assets/js/masonry.js" type="text/javascript"></script>
+    
+  <!-- Medium Zoom JS -->
+  <script defer src="https://cdn.jsdelivr.net/npm/medium-zoom@1.0.8/dist/medium-zoom.min.js" integrity="sha256-7PhEpEWEW0XXQ0k6kQrPKwuoIomz8R8IYyuU1Qew4P8=" crossorigin="anonymous"></script>
+  <script defer src="/assets/js/zoom.js"></script>
+
+  <!-- Bootstrap Table -->
+  <script defer src="https://unpkg.com/bootstrap-table@1.21.4/dist/bootstrap-table.min.js"></script>
+
+  <!-- Load Common JS -->
+  <script src="/assets/js/no_defer.js"></script>
+  <script defer src="/assets/js/common.js"></script>
+  <script defer src="/assets/js/copy_code.js" type="text/javascript"></script>
+
+    
+  <script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+  <script async src="https://badge.dimensions.ai/badge.js"></script>
+
+    <!-- MathJax -->
+  <script type="text/javascript">
+    window.MathJax = {
+      tex: {
+        tags: 'ams'
+      }
+    };
+  </script>
+  <script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.2.0/es5/tex-mml-chtml.js"></script>
+  <script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+
+    
+    
+
+  </body>
+</html>
