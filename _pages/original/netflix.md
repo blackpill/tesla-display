@@ -23,8 +23,12 @@ And install <a href ="https://apps.apple.com/app/tesdisplay-screen-mirror/id6469
 
 App install links:
 <p style="text-align: center;">
-<a id="TesDisplay" href="https://apps.apple.com/app/tesdisplay-screen-mirror/id6469987744"><img src="/assets/img/logo.png" height="100px"></a>
-<a id="FireFox" href="https://apps.apple.com/app/firefox-private-safe-browser/id989804926"><img src="/assets/img/firefox.webp" height="100px"></a>
+<a id="TesDisplay" href="https://apps.apple.com/app/tesdisplay-screen-mirror/id6469987744">
+<img src="/assets/img/logo.png" height="100px">
+</a>
+<a id="FireFox" href="https://apps.apple.com/app/firefox-private-safe-browser/id989804926">
+<img src="/assets/img/firefox.webp" height="100px">
+</a>
 </p>
 If you don't have an iPad with cellular, you can see the other supported <a href="/sites">video sites/apps</a>.
 
@@ -32,7 +36,9 @@ If you don't have an iPad with cellular, you can see the other supported <a href
 <p>We must enable the Wi-Fi hotspot becuase we use is to transfer data between the iPad and the Tesla EV.
 Then make sure that the Tesla EV is connected to the Wi-Fi hotspot of your iPad.</p>
 <p><span style="color: red"><b>IMPORTANT!!!</b></span> The option "Remain connected in Drive" must be checked.</p>
-<p style="text-align: center;"><img src="/assets/img/wifi-connected.jpg" height="300px"></p>
+<p style="text-align: center;">
+<img src="/assets/img/wifi-connected.jpg" height="300px">
+</p>
 
 ## 3. Mirror to Tesla's touchscreen
 <p style="text-align: center;">
