@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: ios
 permalink: /tesconnect_manual/
 title: Manual of TesDisplay App
@@ -9,11 +10,11 @@ dropdown: false
 ---
 <!-- _pages/tesconnect_manual.md -->
 <!-- blank line -->
-<figure class="video-container">
-  <iframe width="540" height="303" src="https://www.youtube.com/embed/gxGi8oQ0bmM" frameborder="0" allowfullscreen="true"> </iframe>
+<figure class= "video-container" >
+  <iframe width= "540"  height= "303"  src= "https://www.youtube.com/embed/gxGi8oQ0bmM"  frameborder= "0"  allowfullscreen= "true" > </iframe>
 </figure>
 <!-- blank line -->
-**Quick start**
+ **Quick start** 
 
 TesDisplay can cast phone screen or video to the big screen of Tesla vehicle.
 1. Add a VPN configuration. For most users, please use default config.
@@ -22,20 +23,20 @@ TesDisplay can cast phone screen or video to the big screen of Tesla vehicle.
 4. Turn to your Tesla vehicle, connect your vehicle to the hotspot.
 5. In the web browser of your Tesla, access https://tesdisplay.com, and see the mirrored screen.
 
-**<span style="color: red"><b>IMPORTANT!!!</b></span>**
+ **<span style="color: red"><b>IMPORTANT!!!</b></span>** 
 
-<p>If you cannot use while driving, you should check the option "Remain connected in Drive" in the WiFi setting dialog on Tesla's screen.</p>
-<img src="/assets/img/wifi-connected.jpg" width="350px">
+<p>If you cannot use while driving, you should check the option  "Remain connected in Drive"  in the WiFi setting dialog on Tesla's screen.</p>
+<img src= "/assets/img/wifi-connected.jpg"  width= "350px" >
 
-**Note for Tesla vehicles with MCU1 or MCU2(Intel Atom)**
-<p>Because of the limited performance of Tesla MCU1/MCU2, the setting "Decode video by phone" should be enabled.</p>
-<img src="/assets/img/mcu-setting.jpg" width="350px">
+ **Note for Tesla vehicles with MCU1 or MCU2(Intel Atom)** 
+<p>Because of the limited performance of Tesla MCU1/MCU2, the setting  "Decode video by phone"  should be enabled.</p>
+<img src= "/assets/img/mcu-setting.jpg"  width= "350px" >
 
-**Audio**
+ **Audio** 
 
 Phone audio can be tranferred via Bluetooth.
 
-<a id="video_apps">**Video apps can be mirrored**</a>
+<a id= "video_apps" > **Video apps can be mirrored** </a>
 
 Due to DRM limits, some video apps cannot be mirrored to Telsa's screen.
 Based on our test, the following iOS video apps can be mirrored.
@@ -58,13 +59,13 @@ The app list will keep updating.
 - Pluto.tv (using Firefox browser)
 
 
-**Other notes**
+ **Other notes** 
 
 1. Don't lock your phone screen while casting, otherwise the service will stop.
 2. Don't switch to other apps while casting video, otherwise the service will stop.
-3. Currently, only MP4 video format is supported. Video files should be "Saved to Files" before casting.
+3. Currently, only MP4 video format is supported. Video files should be  "Saved to Files"  before casting.
 
-**Future features**
+ **Future features** 
 
 1. Support playing video in Tesla's full-screen mode with audio
 2. Support playlist
@@ -72,7 +73,8 @@ The app list will keep updating.
 4. Support more video formats
 5. Support more video sites
 
-**Contact us**
+ **Contact us** 
 
-If you have any questions or suggestions about our TesDisplay App, do not hesitate to contact us at <a href="mailto:dev@tcool.ltd">dev@tcool.ltd</a>.
-<p><a href ="https://discord.gg/Tvbs9uWcN9" target="_blank">Join our Discord</a></p>
+If you have any questions or suggestions about our TesDisplay App, do not hesitate to contact us at <a href= "mailto:dev@tcool.ltd" >dev@tcool.ltd</a>.
+<p><a href = "https://discord.gg/Tvbs9uWcN9"  target= "_blank" >Join our Discord</a></p>
+
