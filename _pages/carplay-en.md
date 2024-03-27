@@ -1,5 +1,6 @@
 ---
 layout: page
+page_id: carplay
 permalink: /carplay/
 title: How to use CarPlay on Tesla?
 description: Is it possible to use CarPlay on Tesla?
@@ -7,6 +8,7 @@ nav: false
 social: true  # includes social icons at the bottom of the page
 nav_order: 1
 categories: tutorial
+lang: en
 ---
 
 Many people asked is it possible to use CarPlay on Tesla? Unfortunately, Tesla vehicle does not support CarPlay directly.
