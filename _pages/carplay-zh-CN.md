@@ -3,15 +3,15 @@ lang: zh-CN
 layout: page
 page_id: carplay
 permalink: /carplay/
-title: 如何在特斯拉上使用carplay？
-description: 可以在特斯拉上使用carplay吗？
+title: 如何在特斯拉上使用CarPlay？
+description: 可以在特斯拉上使用CarPlay吗？
 nav: false
 social: true  # includes social icons at the bottom of the page
 nav_order: 1
 categories: tutorial
 ---
 
-许多人问可以在特斯拉上使用carplay吗？不幸的是，特斯拉车辆不直接支持Carplay。
+许多人问可以在特斯拉上使用CarPlay吗？不幸的是，特斯拉车辆不直接支持CarPlay。
 
 但是，我们可以使用TesDisplay 应用程序镜像iPhone屏幕到特斯拉。本文为您提供了逐步的教程。
 
