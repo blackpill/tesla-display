@@ -1,15 +1,15 @@
 ---
 layout: page
 permalink: /airplay/
-title: How to use Airplay to mirror phone screen to Tesla?
-description: Is it possible to mirror my phone screen to Tesla's big touchscreen via Airplay?
+title: How to use AirPlay to mirror phone screen to Tesla?
+description: Is it possible to mirror my phone screen to Tesla's big touchscreen via AirPlay?
 nav: false
 social: true  # includes social icons at the bottom of the page
 nav_order: 1
 categories: tutorial
 ---
 
-Many people asked is it possible to mirror phone screen to Tesla via Airplay? Unfortunately, Tesla vehicle does not support Airplay. 
+Many people asked is it possible to mirror phone screen to Tesla via AirPlay? Unfortunately, Tesla vehicle does not support AirPlay. 
 
 However, we can use TeslaDisplay/TesDisplay app to mirror phone screen to Tesla. This article gives you a step-by-step tutorial.
 
@@ -28,10 +28,14 @@ However, we can use TeslaDisplay/TesDisplay app to mirror phone screen to Tesla.
 ## 1. Install the app
 
 For iOS users
-<a id="appstore" href ="https://apps.apple.com/app/tesdisplay-screen-mirror/id6469987744"><img src="/assets/img/app-store-badge.png" height="100px"></a>
+<a id="appstore" href ="https://apps.apple.com/app/tesdisplay-screen-mirror/id6469987744">
+<img src="/assets/img/app-store-badge.png" height="100px">
+</a>
 
 For Android users
-<a id="googleplay" href ="https://play.google.com/store/apps/details?id=io.github.blackpill.tesladisplay&referrer=utm_source%3Dgithub%26utm_medium%3Dorganic"><img src="/assets/img/google-play-badge.svg" height="100px"></a>
+<a id="googleplay" href ="https://play.google.com/store/apps/details?id=io.github.blackpill.tesladisplay&referrer=utm_source%3Dgithub%26utm_medium%3Dorganic">
+<img src="/assets/img/google-play-badge.svg" height="100px">
+</a>
 
 ## 2. Enable the WiFi hotspot of your phone
 <p>We must enable the Wi-Fi hotspot becuase we use is to transfer data between the phone and the Tesla EV.
@@ -48,13 +52,13 @@ It's strongly recommended to set the "Control on touchscreen" option checked. Wh
 <p style="text-align: center;">
 <img src="/assets/img/phone-screen.jpg" alt="The start choice of Tesla Display app" width="540px">
 </p>
-After setting, click the start button of Tesla Display. Choose "Phone screen when driving". After a moment, the phone screen starts mirroring.
+After setting, click the start button. Choose "Phone screen when driving". After a moment, the phone screen starts mirroring.
 Then open the web browser of Tesla EV, access the URL <span style="color:blue">https://td9.cc:7777</span>. Now we can see the phone screen in the web browser.
 ## 5. Use any apps you like
 Now, we can see the phone screen is casted to Tesla's touchscreen.
 For navigation, you can use <a href="/waze">Waze</a>, <a href="/gmap">Google Maps</a>, Here WeGo, MAPS.ME, etc.
 For online video streaming, here is <a href="/sites">the video app/site list</a> already tested.
-For music or podcast apps, you can use Youtube Music, Spotify, SiriusXM, Audiable, etc.
+For music or podcast apps, you can use SiriusXM, Youtube Music, Audiable, Spotify, etc.
 ## 6. About the sound
 Make sure that the Bluetooth is enabled in the phone and connected to the Tesla EV.
 Set the sound source of Tesla to Bluetooth.
