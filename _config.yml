@@ -5,10 +5,10 @@ port: 4001
 #title: TeslaDisplay/TesDisplay - a FREE app to mirror screen or cast video to Tesla # the website title (if blank, full name will be used instead)
 title:
 shorttitle: TeslaDisplay
-subtitle: 
-first_name: 
-middle_name: 
-last_name: 
+subtitle:
+first_name:
+middle_name:
+last_name:
 email: blackpill@msn.com
 og_image: "/assets/img/logo.png"
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -30,7 +30,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 languages: ["en", "fr", "de", "ru", "es", "zh-CN", "zh-TW", "ko", "ja", "hi", "pt"]
 default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css", "public"]
-parallel_localization: true
+parallel_localization: false
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -263,7 +263,7 @@ defaults:
       path: ""
       type: "videos"
     values:
-      layout: "video"      
+      layout: "video"
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
