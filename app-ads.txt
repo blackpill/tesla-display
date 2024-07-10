@@ -1,3 +1,5 @@
+#Ad.Plus
+ad.plus, 23189794555, DIRECT
 google.com, pub-4197847608048079, DIRECT, f08c47fec0942fa0
 google.com, pub-3940256099942544, DIRECT, f08c47fec0942fa0
 startapp.com, 125409919, DIRECT
