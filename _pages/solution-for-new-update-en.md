@@ -39,6 +39,8 @@ categories: tutorial
 <p>b. To control directly on Tesla's touchscreen, you should enable  <span style="color: orange"><b>"Control on touchscreen"</b></span> on the new phone.</p>
 <p>c. The URL on Tesla browser should be URL shown in Tesla Display on the <span style="color: orange"><b>old phone</b></span>.</p>
 <p>d. You must disable automatically system update of the old phone</p>
+<p>e. Only "Phone screen" of the new phone can be forwarded.</p>
+<p>f. You'd better test if the <span style="color: orange"><b>old phone</b></span> can mirror its phone screen to Tesla first.</p>
 
 ### Solution C (require a rooted Android phone)
 <p>Still on the way...</p>
