@@ -94,7 +94,13 @@ Due to safety concern, drivers must focused on driving. But passengers can watch
 4. <span style="color:blue">Video from internet</span>: In this mode, videos from internet can be played even while driving.
 
 ## Does it support full-screen mode in Tesla?
-Yes. First enter the full-screen mode via https://www.fullscreentesla.com, or https://abettertheater.com/, or http://s3xy.top in Tesla's browser, and then add a link to https://td9.cc:7777.
+<p>Yes.</p>
+<p>If your Tesla has updated to V12, you can enlarge your browser to fullscreen when parked.</p>
+<p>If the software version of your Tesla is before V12, first enter the full-screen mode via https://www.fullscreentesla.com, or https://abettertheater.com/, or http://s3xy.top in Tesla's browser, and then add a link to https://td9.cc:7777. </p>
+
+## Solutions for Android phones with recent Google Play system update
+<p>If the date of Google Play system update on your phone is later than June 1, 2024, Tesla browser cannot get your phone screencast directly</p>
+<p>Here are some <a href ="/solution-for-new-update">solutions</a></p>
 
 ## More about this app?
 <p><a href ="https://discord.gg/Tvbs9uWcN9" target="_blank">Join our Discord</a></p>
