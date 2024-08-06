@@ -13,7 +13,7 @@ categories: tutorial
 <p>Because recent Google Play system update (June 1, 2024) blocks the network requests to the virtual IP address through personal hotspot. We have to adapt more complicate solution to mirror phone screen to Tesla. This page will show the best solutions we can find out so far.</p>
 
 ### Check app version first
-<p>The version of Tesla Display app must newer than 5.26</p>
+<p>The version of Tesla Display app must not be older than 5.26</p>
 
 ### Solution A (only effective to a subset of users)
 <p>If the internal IP address your mobile phone obtains from the mobile carrier happens to be outside the range prohibited by the Tesla browser, the solution is easy.</p>
