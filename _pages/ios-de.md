@@ -3,7 +3,7 @@ lang: de
 layout: page
 seotitle: TesDisplay - Spiegel iPhone -Bildschirm oder Videos auf Tesla.
 title: iOS
-permalink: /ios/
+permalink: ios/
 nav: true
 nav_order: 1
 categories: tutorial
