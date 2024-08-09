@@ -13,7 +13,7 @@ categories: tutorial
 <p>Because recent Google Play system update (June 1, 2024) blocks the network requests to the virtual IP address through personal hotspot. We have to adapt more complicate solution to mirror phone screen to Tesla. This page will show the best solutions we can find out so far.</p>
 
 ### Check app version first
-<p>The version of Tesla Display app must not be older than 5.26</p>
+<p>The version of Tesla Display app must not be older than 5.27</p>
 
 ### Solution A (only effective to a subset of users)
 <p>If the internal IP address your mobile phone obtains from the mobile carrier happens to be outside the range prohibited by the Tesla browser, the solution is easy.</p>
@@ -25,19 +25,35 @@ categories: tutorial
 <p>If Solution A cannot work for you, you can try Solution B.</p>
 <p>Solution B requires two Android phones. </p>
 <p>One phone is the phone we want to mirror its screen to Tesla, which has installed the latest Google Play system update. We call it the <span style="color: orange"><b>new phone</b></span>.</p>
-<p>The other phone must not install the Google Play system update after June 1, 2024. We call it the <span style="color: orange"><b>old phone</b></span>. If the old phone can enable personal hotspot without SIM card, you only need one SIM card on your new phone to access internet.</p>
+<p>The other phone must not install the Google Play system update after June 1, 2024. We call it the <span style="color: orange"><b>old phone</b></span>.</p>
+<p>These two phones and your Tesla vehicle have two schemes of network connections to meet different needs.</p>
+
+#### Connection scheme 1
+<p>If the old phone can enable personal hotspot using Wi-Fi instead of cellular data, you can choose this scheme. No SIM card is required for your old phone.</p>
 <p>Network connection:</p>
-<p>The <span style="color: orange"><b>new phone</b></span> turns on cellular data, and enables the personal hotspot <span style="color: teal"><b>"WIFI N"</b></span>.</p>
-<p>The <span style="color: orange"><b>old phone</b></span> is connected to <span style="color: teal"><b>"WIFI N"</b></span>, and enables the personal hotspot <span style="color: teal"><b>"WIFI O"</b></span>.</p>
-<p>Your Tesla vehicle is connected to <span style="color: teal"><b>"WIFI O"</b></span>.</p>
+<p>1. The <span style="color: orange"><b>new phone</b></span> turns on cellular data, and enables the personal hotspot <span style="color: teal"><b>"Wi-Fi N"</b></span>.</p>
+<p>2. The <span style="color: orange"><b>old phone</b></span> is connected to <span style="color: teal"><b>"Wi-Fi N"</b></span>, and enables the personal hotspot <span style="color: teal"><b>"Wi-Fi O"</b></span>.</p>
+<p>3. Your Tesla vehicle is connected to <span style="color: teal"><b>"Wi-Fi O"</b></span>.</p>
 <p>App operations:</p>
 <p>1. On the <span style="color: orange"><b>new phone</b></span>, launch Tesla Display app, check the <span style="color: orange"><b>"Disable SSL"</b></span> option on the setting tab, tap the <span style="color: orange"><b>"start"</b></span> button, choose <span style="color: orange"><b>"Phone screen"</b></span></p>
 <p>2. On the <span style="color: orange"><b>old phone</b></span>, launch Tesla Display app, tap the <span style="color: orange"><b>"start"</b></span> button, choose <span style="color: orange"><b>"Forward another phone screen"</b></span></p>
-<p>3. On Tesla browser, access <span style="color: orange"><b>https://td7.cc</b></span> to see the screen of the new phone</p>
-<p>Hints:</p>
+<p>3. On Tesla browser, access <span style="color: orange"><b>http://7.7.7.7:7000</b></span> to see the screen of the new phone</p>
+
+#### Connection scheme 2
+<p>If the old phone can only enable personal hotspot using cellular data, you must choose this scheme. You must insert one SIM card into the old phone for personal hotspot.</p>
+<p>Network connection:</p>
+<p>1. The <span style="color: orange"><b>old phone</b></span> turns on cellular data, and enables the personal hotspot <span style="color: teal"><b>"Wi-Fi O"</b></span>.</p>
+<p>2. Both your Tesla vehicle and the <span style="color: orange"><b>new phone</b></span> are connected to <span style="color: teal"><b>"Wi-Fi O"</b></span>, and enables the personal hotspot <span style="color: teal"><b>"Wi-Fi O"</b></span>.</p>
+<p>App operations:</p>
+<p>1. On the <span style="color: orange"><b>new phone</b></span>, launch Tesla Display app, check the <span style="color: orange"><b>"Disable SSL"</b></span> option on the setting tab, tap the <span style="color: orange"><b>"start"</b></span> button, choose <span style="color: orange"><b>"Phone screen"</b></span></p>
+<p>2. On the <span style="color: orange"><b>new phone</b></span>, Swipe down from the top of the screen, long press the Wi-Fi icon, select <span style="color: orange"><b>More Wi-Fi settings</b></span>, tap on the <span style="color: orange"><b>></b></span> to the right of "Wi-Fi O", and remember the IP address, assuming it is <span style="color: orange"><b>192.168.3.xyz</b></span>.</p>
+<p>3. On the <span style="color: orange"><b>old phone</b></span>, launch Tesla Display app, tap the <span style="color: orange"><b>"start"</b></span> button, choose <span style="color: orange"><b>"Forward another phone screen"</b></span>, input the IP address <span style="color: orange"><b>192.168.3.xyz</b></span>, and tap <span style="color: orange"><b>submit</b></span></p>
+<p>4. On Tesla browser, access <span style="color: orange"><b>http://7.7.7.7:7000</b></span> to see the screen of the new phone</p>
+
+#### Hints:
 <p>a. The new phone must launch Tesla Display before the old phone</p>
 <p>b. To control directly on Tesla's touchscreen, you should enable  <span style="color: orange"><b>"Control on touchscreen"</b></span> on the new phone.</p>
-<p>c. The URL on Tesla browser should be URL shown in Tesla Display on the <span style="color: orange"><b>old phone</b></span>.</p>
+<p>c. On Tesla browser, you should access the URL shown in Tesla Display on the <span style="color: orange"><b>old phone</b></span>.</p>
 <p>d. You must disable automatically system update of the old phone</p>
 <p>e. Only "Phone screen" of the new phone can be forwarded.</p>
 <p>f. You'd better test if the <span style="color: orange"><b>old phone</b></span> can mirror its phone screen to Tesla first.</p>
