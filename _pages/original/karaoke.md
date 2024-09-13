@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /karaoke/
+permalink: karaoke/
 title: How to play karaoke songs while driving Tesla?
 description: Using Tesla Display, we can play karaoke songs for passengers on Tesla's big screen while driving.
 nav: false

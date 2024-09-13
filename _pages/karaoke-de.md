@@ -1,7 +1,7 @@
 ---
 lang: de
 layout: page
-permalink: /karaoke/
+permalink: karaoke/
 title: Wie spiele ich Karaoke -Songs, während ich Tesla fährt?
 description: VerwendungTesla DisplayWir können während der Fahrt Karaoke -Songs für Passagiere auf Teslas großer Leinwand spielen.
 nav: false

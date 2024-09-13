@@ -1,7 +1,7 @@
 ---
 lang: ja
 layout: page
-permalink: /youtube/
+permalink: youtube/
 title: テスラを運転しながらYouTubeビデオを再生する方法は？
 description: 使用Tesla Display、運転中にテスラの大画面で乗客向けのYouTubeビデオを再生できます。
 nav: false

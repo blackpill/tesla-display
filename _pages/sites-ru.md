@@ -1,7 +1,7 @@
 ---
 lang: ru
 layout: page
-permalink: /sites/
+permalink: sites/
 title: Поддерживаемые видео -сайты
 description: TeslaDisplay может разыграть видео из поддерживаемых приложений/сайтов (YouTube,Tiktok) Тесле.
 nav: true

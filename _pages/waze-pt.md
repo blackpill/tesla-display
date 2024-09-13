@@ -1,7 +1,7 @@
 ---
 lang: pt
 layout: how-to
-permalink: /waze/
+permalink: waze/
 title: Como usarWaze Na tela sensível ao toque de Tesla?
 description: Nós podemos lançar oWaze App à grande tela sensível ao toque de Tesla enquanto dirige, e pode até manipular oWaze App na tela sensível ao toque da Tesla diretamente.
 nav: false

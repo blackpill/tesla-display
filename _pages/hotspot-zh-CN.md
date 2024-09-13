@@ -1,7 +1,7 @@
 ---
 lang: zh-CN
 layout: page
-permalink: /hotspot/
+permalink: hotspot/
 title: 使用移动热点时如何解决加热问题？
 description: 通过添加电话冷却器，我们可以长时间使用移动热点，而不必担心过热问题。
 nav: false

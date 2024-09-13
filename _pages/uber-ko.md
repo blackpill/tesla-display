@@ -1,7 +1,7 @@
 ---
 lang: ko
 layout: page
-permalink: /uber/
+permalink: uber/
 title: Tesla에서 Uber를 사용하는 방법?
 description: 운전 중에 Uber 드라이버 앱을 Tesla의 큰 터치 스크린에 캐스트 할 수 있으며 Tesla의 터치 스크린에서 Uber 앱을 직접 조작 할 수도 있습니다.
 nav: false

@@ -1,7 +1,7 @@
 ---
 lang: de
 layout: page
-permalink: /youtube/
+permalink: youtube/
 title: Wie spiele ich YouTube -Videos beim Fahren von Tesla?
 description: VerwendungTesla DisplayWir können YouTube -Videos für Passagiere auf Teslas großer Leinwand während der Fahrt abspielen.
 nav: false

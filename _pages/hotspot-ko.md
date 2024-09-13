@@ -1,7 +1,7 @@
 ---
 lang: ko
 layout: page
-permalink: /hotspot/
+permalink: hotspot/
 title: 모바일 핫스팟을 사용할 때 가열 문제를 해결하는 방법은 무엇입니까?
 description: 전화 냉각기를 추가하면 과열 문제에 대해 걱정하지 않고 모바일 핫스팟을 오랫동안 사용할 수 있습니다.
 nav: false

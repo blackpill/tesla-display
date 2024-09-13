@@ -1,7 +1,7 @@
 ---
 lang: zh-CN
 layout: page
-permalink: /sites/
+permalink: sites/
 title: 支持的视频网站
 description: TeslaDisplay 可以从受支持的应用程序/站点（YouTube，Tiktok）播放视频到特斯拉。
 nav: true

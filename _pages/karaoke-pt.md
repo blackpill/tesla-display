@@ -1,7 +1,7 @@
 ---
 lang: pt
 layout: page
-permalink: /karaoke/
+permalink: karaoke/
 title: Como tocar músicas de karaokê enquanto dirigia Tesla?
 description: UsandoTesla Display, podemos tocar músicas de karaokê para passageiros na tela grande de Tesla enquanto dirige.
 nav: false

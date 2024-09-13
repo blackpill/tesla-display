@@ -1,7 +1,7 @@
 ---
 lang: ja
 layout: how-to
-permalink: /waze/
+permalink: waze/
 title: 使い方Waze テスラのタッチスクリーンで？
 description: キャストできますWaze 運転中にテスラの大きなタッチスクリーンへのアプリ、そしてWaze テスラのタッチスクリーンのアプリ。
 nav: false

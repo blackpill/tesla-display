@@ -1,7 +1,7 @@
 ---
 lang: hi
 layout: page
-permalink: /youtube/
+permalink: youtube/
 title: टेस्ला चलाते समय YouTube वीडियो कैसे खेलें?
 description: का उपयोग करते हुएTesla Display, हम ड्राइविंग करते समय टेस्ला की बड़ी स्क्रीन पर यात्रियों के लिए YouTube वीडियो खेल सकते हैं।
 nav: false

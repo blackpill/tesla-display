@@ -3,7 +3,7 @@ lang: ru
 layout: page
 seotitle: TesDisplay - Зеркальный экран iPhone или видеоролики в Tesla
 title: iOS
-permalink: /ios/
+permalink: ios/
 nav: true
 nav_order: 1
 categories: tutorial

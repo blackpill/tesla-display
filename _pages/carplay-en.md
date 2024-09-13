@@ -2,7 +2,7 @@
 lang: en
 layout: page
 page_id: carplay
-permalink: /carplay/
+permalink: carplay/
 title: How to use CarPlay on Tesla?
 description: Is it possible to use CarPlay on Tesla?
 nav: false

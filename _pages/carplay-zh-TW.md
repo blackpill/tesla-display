@@ -2,7 +2,7 @@
 lang: zh-TW
 layout: page
 page_id: carplay
-permalink: /carplay/
+permalink: carplay/
 title: 如何使用CarPlay 在特斯拉？
 description: 可以使用嗎CarPlay 在特斯拉？
 nav: false

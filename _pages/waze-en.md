@@ -1,7 +1,7 @@
 ---
 lang: en
 layout: how-to
-permalink: /waze/
+permalink: waze/
 title: How to use Waze in Tesla's touchscreen?
 description: We can cast the Waze app to Tesla's big touchscreen while driving, and can even manipulate the Waze app on Tesla's touchscreen directly.
 nav: false

@@ -1,7 +1,7 @@
 ---
 lang: es
 layout: how-to
-permalink: /gmap/
+permalink: gmap/
 title: ¿Cómo usar el mapa de Google en la pantalla táctil de Tesla?
 description: Podemos lanzar la aplicación de mapa de Google a la gran pantalla táctil de Tesla mientras conduce, e incluso podemos manipular la aplicación de mapa de Google en la pantalla táctil de Tesla directamente.
 nav: false

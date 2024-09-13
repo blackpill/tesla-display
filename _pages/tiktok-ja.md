@@ -1,7 +1,7 @@
 ---
 lang: ja
 layout: how-to
-permalink: /tiktok/
+permalink: tiktok/
 title: 遊び方Tiktok テスラを運転している間のビデオ？
 description: 使用Tesla Display、 我々は再生することができますTiktok 運転中のテスラの大画面での乗客向けのビデオ。
 nav: false

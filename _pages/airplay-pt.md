@@ -1,7 +1,7 @@
 ---
 lang: pt
 layout: page
-permalink: /airplay/
+permalink: airplay/
 title: Como usarAirPlay Para refletir a tela do telefone para Tesla?
 description: É possível espelhar minha tela de telefone para a grande tela sensível ao toque de Tesla viaAirPlay?
 nav: false

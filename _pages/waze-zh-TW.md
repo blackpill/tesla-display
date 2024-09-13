@@ -1,7 +1,7 @@
 ---
 lang: zh-TW
 layout: how-to
-permalink: /waze/
+permalink: waze/
 title: 如何使用Waze 在特斯拉的觸摸屏中？
 description: 我們可以施放Waze 在開車時，應用於特斯拉的大觸摸屏，甚至可以操縱Waze 直接在特斯拉的觸摸屏上應用。
 nav: false

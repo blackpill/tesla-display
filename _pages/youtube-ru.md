@@ -1,7 +1,7 @@
 ---
 lang: ru
 layout: page
-permalink: /youtube/
+permalink: youtube/
 title: Как воспроизводить видео на YouTube во время вождения Tesla?
 description: С использованиемTesla Display, Мы можем воспроизводить видео на YouTube для пассажиров на большом экране Теслы во время вождения.
 nav: false

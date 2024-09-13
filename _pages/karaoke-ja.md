@@ -1,7 +1,7 @@
 ---
 lang: ja
 layout: page
-permalink: /karaoke/
+permalink: karaoke/
 title: テスラを運転しながらカラオケの曲を再生する方法は？
 description: 使用Tesla Display、運転中にテスラの大画面で乗客のためにカラオケの歌を演奏できます。
 nav: false

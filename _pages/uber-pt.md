@@ -1,7 +1,7 @@
 ---
 lang: pt
 layout: page
-permalink: /uber/
+permalink: uber/
 title: Como usar o Uber no Tesla?
 description: Podemos lançar o aplicativo de driver do Uber na grande tela sensível ao toque de Tesla enquanto estiver dirigindo, e podemos até manipular o aplicativo Uber na tela sensível ao toque da Tesla diretamente.
 nav: false

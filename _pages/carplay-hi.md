@@ -2,7 +2,7 @@
 lang: hi
 layout: page
 page_id: carplay
-permalink: /carplay/
+permalink: carplay/
 title: का उपयोग कैसे करेंCarPlay टेस्ला पर?
 description: क्या यह उपयोग करना संभव हैCarPlay टेस्ला पर?
 nav: false

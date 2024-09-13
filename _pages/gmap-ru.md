@@ -1,7 +1,7 @@
 ---
 lang: ru
 layout: how-to
-permalink: /gmap/
+permalink: gmap/
 title: Как использовать карту Google на сенсорном экране Теслы?
 description: Мы можем разыграть приложение Google Map на большой сенсорный экран Tesla во время вождения, и даже можем даже манипулировать приложением Google Map на сенсорном экране Tesla.
 nav: false

@@ -1,7 +1,7 @@
 ---
 lang: hi
 layout: page
-permalink: /airplay/
+permalink: airplay/
 title: का उपयोग कैसे करेंAirPlay टेस्ला को फोन स्क्रीन को मिरर करने के लिए?
 description: क्या टेस्ला के बड़े टचस्क्रीन के माध्यम से मेरे फोन स्क्रीन को मिरर करना संभव हैAirPlay?
 nav: false

@@ -1,7 +1,7 @@
 ---
 lang: ko
 layout: how-to
-permalink: /waze/
+permalink: waze/
 title: 사용하는 방법Waze 테슬라의 터치 스크린에서?
 description: 우리는 캐스팅 할 수 있습니다Waze 운전하는 동안 Tesla의 큰 터치 스크린에 대한 앱을 조작 할 수도 있습니다.Waze Tesla의 터치 스크린의 앱.
 nav: false

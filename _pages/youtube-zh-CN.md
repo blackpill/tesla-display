@@ -1,7 +1,7 @@
 ---
 lang: zh-CN
 layout: page
-permalink: /youtube/
+permalink: youtube/
 title: 在开车特斯拉时如何播放YouTube视频？
 description: 使用Tesla Display，我们可以在开车时为特斯拉大屏幕上的乘客播放YouTube视频。
 nav: false

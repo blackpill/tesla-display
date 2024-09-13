@@ -1,7 +1,7 @@
 ---
 lang: pt
 layout: page
-permalink: /youtube/
+permalink: youtube/
 title: Como reproduzir vídeos do YouTube enquanto dirige Tesla?
 description: UsandoTesla Display, podemos reproduzir vídeos do YouTube para passageiros na tela grande de Tesla enquanto dirige.
 nav: false

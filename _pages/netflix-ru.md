@@ -1,7 +1,7 @@
 ---
 lang: ru
 layout: page
-permalink: /netflix/
+permalink: netflix/
 title: Как воспроизводить видео Netflix на Tesla во время вождения?
 description: КTesDisplay Приложение, мы можем разыграть видео Netflix к большому сенсорному экрану Теслы для всех пассажиров во время вождения.
 nav: false

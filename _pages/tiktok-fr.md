@@ -1,7 +1,7 @@
 ---
 lang: fr
 layout: how-to
-permalink: /tiktok/
+permalink: tiktok/
 title: Comment jouerTiktok Vidéos en conduisant Tesla?
 description: En utilisantTesla Display, nous pouvons jouerTiktok Vidéos pour les passagers sur grand écran de Tesla en conduisant.
 nav: false

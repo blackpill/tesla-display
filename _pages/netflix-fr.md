@@ -1,7 +1,7 @@
 ---
 lang: fr
 layout: page
-permalink: /netflix/
+permalink: netflix/
 title: Comment lire des vidéos Netflix sur Tesla en conduisant?
 description: ParTesDisplay App, nous pouvons lancer des vidéos Netflix à l'écran tactile de Tesla pour tous les passagers en conduisant.
 nav: false

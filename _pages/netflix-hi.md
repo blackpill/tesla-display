@@ -1,7 +1,7 @@
 ---
 lang: hi
 layout: page
-permalink: /netflix/
+permalink: netflix/
 title: ड्राइविंग करते समय टेस्ला पर नेटफ्लिक्स वीडियो कैसे खेलें?
 description: द्वाराTesDisplay ऐप, हम ड्राइविंग करते समय सभी यात्रियों के लिए टेस्ला के बड़े टचस्क्रीन के लिए नेटफ्लिक्स वीडियो डाल सकते हैं।
 nav: false

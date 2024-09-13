@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /uber/
+permalink: uber/
 title: How to use Uber on Tesla?
 description: We can cast the Uber Driver app to Tesla's big touchscreen while driving, and we can even manipulate the Uber app on Tesla's touchscreen directly.
 nav: false

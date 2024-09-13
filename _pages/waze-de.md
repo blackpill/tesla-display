@@ -1,7 +1,7 @@
 ---
 lang: de
 layout: how-to
-permalink: /waze/
+permalink: waze/
 title: Wie benutzt manWaze In Teslas Touchscreen?
 description: Wir können das wirkenWaze App zu Teslas großem Touchscreen während der Fahrt und kann das sogar manipulierenWaze App auf Teslas Touchscreen direkt.
 nav: false

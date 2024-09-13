@@ -3,7 +3,7 @@ lang: zh-CN
 layout: page
 seotitle: TesDisplay  - 镜像iPhone屏幕或将视频投放到特斯拉
 title: iOS
-permalink: /ios/
+permalink: ios/
 nav: true
 nav_order: 1
 categories: tutorial

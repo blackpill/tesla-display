@@ -3,7 +3,7 @@ lang: ja
 layout: page
 seotitle: TesDisplay -iPhone画面をミラーするか、ビデオをテスラにキャストします
 title: iOS
-permalink: /ios/
+permalink: ios/
 nav: true
 nav_order: 1
 categories: tutorial

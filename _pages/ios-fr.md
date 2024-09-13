@@ -3,7 +3,7 @@ lang: fr
 layout: page
 seotitle: TesDisplay - Miroir Écran de l'iPhone ou jetez des vidéos à Tesla
 title: iOS
-permalink: /ios/
+permalink: ios/
 nav: true
 nav_order: 1
 categories: tutorial

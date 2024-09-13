@@ -1,7 +1,7 @@
 ---
 lang: fr
 layout: page
-permalink: /hotspot/
+permalink: hotspot/
 title: Comment résoudre le problème de chauffage lors de l'utilisation de Hotspot mobile?
 description: En ajoutant une glacière de téléphone, nous pouvons utiliser le hotspot mobile pendant longtemps sans nous soucier du problème de surchauffe.
 nav: false

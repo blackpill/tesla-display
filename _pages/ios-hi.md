@@ -3,7 +3,7 @@ lang: hi
 layout: page
 seotitle: TesDisplay - मिरर iPhone स्क्रीन या टेस्ला में वीडियो डालें
 title: iOS
-permalink: /ios/
+permalink: ios/
 nav: true
 nav_order: 1
 categories: tutorial

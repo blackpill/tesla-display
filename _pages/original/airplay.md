@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /airplay/
+permalink: airplay/
 title: How to use AirPlay to mirror phone screen to Tesla?
 description: Is it possible to mirror my phone screen to Tesla's big touchscreen via AirPlay?
 nav: false

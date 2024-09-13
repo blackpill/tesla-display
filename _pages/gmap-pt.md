@@ -1,7 +1,7 @@
 ---
 lang: pt
 layout: how-to
-permalink: /gmap/
+permalink: gmap/
 title: Como usar o mapa do Google na tela sensível ao toque da Tesla?
 description: Podemos lançar o aplicativo do Google Map na grande tela sensível ao toque da Tesla enquanto estiver dirigindo e pode até manipular o aplicativo do Google Map na tela sensível ao toque da Tesla diretamente.
 nav: false

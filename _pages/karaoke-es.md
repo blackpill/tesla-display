@@ -1,7 +1,7 @@
 ---
 lang: es
 layout: page
-permalink: /karaoke/
+permalink: karaoke/
 title: ¿Cómo tocar canciones de karaoke mientras conduce Tesla?
 description: UsandoTesla Display, podemos tocar canciones de karaoke para los pasajeros en la pantalla grande de Tesla mientras conducen.
 nav: false

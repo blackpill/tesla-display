@@ -1,7 +1,7 @@
 ---
 lang: es
 layout: how-to
-permalink: /waze/
+permalink: waze/
 title: Cómo utilizarWaze ¿En la pantalla táctil de Tesla?
 description: Podemos lanzar elWaze aplicación para la gran pantalla táctil de Tesla mientras conduce, e incluso puede manipular elWaze Aplicación en la pantalla táctil de Tesla directamente.
 nav: false

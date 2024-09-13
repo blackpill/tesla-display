@@ -1,7 +1,7 @@
 ---
 lang: de
 layout: page
-permalink: /uber/
+permalink: uber/
 title: Wie benutze ich Uber auf Tesla?
 description: Wir können die Uber -Fahrer -App während der Fahrt auf Teslas große Touchscreen geben, und wir können die Uber -App sogar direkt auf Teslas Touchscreen manipulieren.
 nav: false

@@ -1,7 +1,7 @@
 ---
 lang: en
 layout: page
-permalink: /sites/
+permalink: sites/
 title: Supported video sites
 description: TeslaDisplay can cast videos from supported apps/sites (Youtube, Tiktok) to Tesla.
 nav: true

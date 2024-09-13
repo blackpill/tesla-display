@@ -1,7 +1,7 @@
 ---
 lang: ru
 layout: page
-permalink: /airplay/
+permalink: airplay/
 title: Как использоватьAirPlay Чтобы отразить экран телефона Tesla?
 description: Можно ли отразить экран моего телефона на большой сенсорный экран Теслы черезAirPlay?
 nav: false

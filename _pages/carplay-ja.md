@@ -2,7 +2,7 @@
 lang: ja
 layout: page
 page_id: carplay
-permalink: /carplay/
+permalink: carplay/
 title: 使い方CarPlay テスラで？
 description: 使用することは可能ですか？CarPlay テスラで？
 nav: false

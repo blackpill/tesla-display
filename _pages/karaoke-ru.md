@@ -1,7 +1,7 @@
 ---
 lang: ru
 layout: page
-permalink: /karaoke/
+permalink: karaoke/
 title: Как играть в караоке песни во время вождения Теслы?
 description: С использованиемTesla Display, мы можем играть в караоке для пассажиров на большом экране Теслы во время вождения.
 nav: false

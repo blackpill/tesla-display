@@ -1,7 +1,7 @@
 ---
 lang: ja
 layout: page
-permalink: /airplay/
+permalink: airplay/
 title: 使い方AirPlay 電話画面をテスラにミラーリングするには？
 description: 私の電話画面をテスラの大きなタッチスクリーンにミラーリングすることは可能ですかAirPlay？
 nav: false

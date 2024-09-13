@@ -3,7 +3,7 @@ lang: ko
 layout: page
 seotitle: TesDisplay - 아이폰 화면을 미러 또는 테슬라로 캐스트합니다
 title: iOS
-permalink: /ios/
+permalink: ios/
 nav: true
 nav_order: 1
 categories: tutorial

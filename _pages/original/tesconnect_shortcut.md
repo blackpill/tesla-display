@@ -1,6 +1,6 @@
 ---
 layout: ios
-permalink: /tesconnect_shortcut/
+permalink: tesconnect_shortcut/
 title: Quick preparation with shortcuts
 nav: false
 nav_order: 1

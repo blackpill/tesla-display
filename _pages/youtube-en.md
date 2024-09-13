@@ -1,7 +1,7 @@
 ---
 lang: en
 layout: page
-permalink: /youtube/
+permalink: youtube/
 title: How to play Youtube videos while driving Tesla?
 description: Using Tesla Display, we can play Youtube videos for passengers on Tesla's big screen while driving.
 nav: false

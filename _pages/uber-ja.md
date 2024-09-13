@@ -1,7 +1,7 @@
 ---
 lang: ja
 layout: page
-permalink: /uber/
+permalink: uber/
 title: テスラでUberを使用する方法は？
 description: 運転中にUberドライバーアプリをテスラの大きなタッチスクリーンにキャストすることができ、テスラのタッチスクリーンのUberアプリを直接操作することもできます。
 nav: false

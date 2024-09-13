@@ -1,7 +1,7 @@
 ---
 lang: es
 layout: page
-permalink: /hotspot/
+permalink: hotspot/
 title: ¿Cómo resolver el problema de calefacción cuando se usa un punto de acceso móvil?
 description: Al agregar un refrigerador de teléfono, podemos usar el punto de acceso móvil durante mucho tiempo sin preocuparnos por el problema de sobrecalentamiento.
 nav: false

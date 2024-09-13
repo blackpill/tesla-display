@@ -1,6 +1,6 @@
 ---
 layout: ios
-permalink: /tesconnect_manual/
+permalink: tesconnect_manual/
 title: Manual of TesDisplay App
 description: An iOS app can cast phone screen or video to Tesla while driving.
 nav: false

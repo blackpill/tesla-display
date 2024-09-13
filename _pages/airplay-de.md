@@ -1,7 +1,7 @@
 ---
 lang: de
 layout: page
-permalink: /airplay/
+permalink: airplay/
 title: Wie benutzt manAirPlay zum Spiegeln des Telefonbildschirms zu Tesla?
 description: Ist es möglich, meinen Telefonbildschirm mit Teslas großem Touchscreen überzuspiegelnAirPlay?
 nav: false

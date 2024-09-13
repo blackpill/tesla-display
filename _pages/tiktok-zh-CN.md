@@ -1,7 +1,7 @@
 ---
 lang: zh-CN
 layout: how-to
-permalink: /tiktok/
+permalink: tiktok/
 title: 怎么玩Tiktok 开车特斯拉时的视频？
 description: 使用Tesla Display， 我们可以玩Tiktok 开车时，特斯拉大屏幕上的乘客的视频。
 nav: false

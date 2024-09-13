@@ -1,7 +1,7 @@
 ---
 lang: en
 layout: how-to
-permalink: /tiktok/
+permalink: tiktok/
 title: How to play Tiktok videos while driving Tesla?
 description: Using Tesla Display, we can play Tiktok videos for passengers on Tesla's big screen while driving.
 nav: false

@@ -1,7 +1,7 @@
 ---
 lang: fr
 layout: page
-permalink: /airplay/
+permalink: airplay/
 title: Comment utiliserAirPlay Pour refléter l'écran du téléphone à Tesla?
 description: Est-il possible de refléter mon écran de téléphone dans le grand écran tactile de Tesla viaAirPlay?
 nav: false

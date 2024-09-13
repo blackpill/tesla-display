@@ -1,7 +1,7 @@
 ---
 lang: ja
 layout: page
-permalink: /sites/
+permalink: sites/
 title: サポートされているビデオサイト
 description: TeslaDisplay サポートされているアプリ/サイトからビデオをキャストできます（YouTube、Tiktok）テスラへ。
 nav: true

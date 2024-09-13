@@ -1,7 +1,7 @@
 ---
 lang: zh-TW
 layout: page
-permalink: /uber/
+permalink: uber/
 title: 如何在特斯拉上使用Uber？
 description: 我們可以在開車時將Uber Driver應用程序投放到特斯拉的大觸摸屏上，甚至可以直接在Tesla的觸摸屏上操縱Uber應用程序。
 nav: false

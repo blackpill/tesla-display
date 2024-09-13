@@ -1,7 +1,7 @@
 ---
 lang: zh-TW
 layout: how-to
-permalink: /gmap/
+permalink: gmap/
 title: 如何在特斯拉的觸摸屏中使用Google Map？
 description: 我們可以在開車時將Google Map應用程序投放到特斯拉的大觸摸屏上，甚至可以直接操縱特斯拉觸摸屏上的Google Map應用程序。
 nav: false

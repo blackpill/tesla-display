@@ -1,7 +1,7 @@
 ---
 lang: hi
 layout: how-to
-permalink: /waze/
+permalink: waze/
 title: का उपयोग कैसे करेंWaze टेस्ला के टचस्क्रीन में?
 description: हम कास्ट कर सकते हैंWaze ड्राइविंग करते समय टेस्ला के बड़े टचस्क्रीन के लिए ऐप, और यहां तक ​​कि हेरफेर भी कर सकते हैंWaze टेस्ला के टचस्क्रीन पर सीधे ऐप।
 nav: false

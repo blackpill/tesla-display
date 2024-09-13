@@ -1,7 +1,7 @@
 ---
 lang: hi
 layout: how-to
-permalink: /gmap/
+permalink: gmap/
 title: टेस्ला के टचस्क्रीन में Google मैप का उपयोग कैसे करें?
 description: हम ड्राइविंग करते समय टेस्ला के बड़े टचस्क्रीन में Google मैप ऐप डाल सकते हैं, और यहां तक ​​कि टेस्ला के टचस्क्रीन पर Google मैप ऐप को सीधे हेरफेर कर सकते हैं।
 nav: false

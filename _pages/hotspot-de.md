@@ -1,7 +1,7 @@
 ---
 lang: de
 layout: page
-permalink: /hotspot/
+permalink: hotspot/
 title: Wie löste ich das Heizproblem bei Verwendung mobiler Hotspot?
 description: Durch das Hinzufügen eines Telefonkühlers können wir mobile Hotspot für lange Zeit verwenden, ohne mir Sorgen um das Überhitzungsproblem zu machen.
 nav: false

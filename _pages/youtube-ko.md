@@ -1,7 +1,7 @@
 ---
 lang: ko
 layout: page
-permalink: /youtube/
+permalink: youtube/
 title: 테슬라를 운전하는 동안 YouTube 동영상을 재생하는 방법?
 description: 사용Tesla Display, 우리는 운전 중에 Tesla의 큰 화면에서 승객을위한 YouTube 비디오를 재생할 수 있습니다.
 nav: false

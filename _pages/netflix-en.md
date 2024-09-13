@@ -1,7 +1,7 @@
 ---
 lang: en
 layout: page
-permalink: /netflix/
+permalink: netflix/
 title: How to play Netflix videos on Tesla while driving?
 description: By TesDisplay app, we can cast Netflix videos to Tesla's big touchscreen for all passengers while driving.
 nav: false

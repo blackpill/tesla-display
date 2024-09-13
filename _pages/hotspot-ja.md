@@ -1,7 +1,7 @@
 ---
 lang: ja
 layout: page
-permalink: /hotspot/
+permalink: hotspot/
 title: モバイルホットスポットを使用するときに暖房の問題を解決する方法は？
 description: 電話クーラーを追加することで、過熱の問題を心配することなく、モバイルホットスポットを長い間使用できます。
 nav: false

@@ -1,7 +1,7 @@
 ---
 lang: fr
 layout: page
-permalink: /sites/
+permalink: sites/
 title: Sites vidéo pris en charge
 description: TeslaDisplay peut lancer des vidéos à partir d'applications / sites pris en charge (YouTube,Tiktok) à Tesla.
 nav: true

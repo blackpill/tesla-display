@@ -1,7 +1,7 @@
 ---
 lang: ko
 layout: how-to
-permalink: /tiktok/
+permalink: tiktok/
 title: 게임 방법Tiktok 테슬라를 운전하는 동안 비디오?
 description: 사용Tesla Display, 우리는 놀 수 있습니다Tiktok 운전하는 동안 Tesla의 큰 화면에서 승객을위한 비디오.
 nav: false

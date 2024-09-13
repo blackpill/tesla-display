@@ -1,7 +1,7 @@
 ---
 lang: es
 layout: page
-permalink: /sites/
+permalink: sites/
 title: Sitios de video compatibles
 description: TeslaDisplay puede proyectar videos de aplicaciones/sitios compatibles (YouTube,Tiktok) a Tesla.
 nav: true

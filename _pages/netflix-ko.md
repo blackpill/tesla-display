@@ -1,7 +1,7 @@
 ---
 lang: ko
 layout: page
-permalink: /netflix/
+permalink: netflix/
 title: 운전 중에 테슬라에서 넷플릭스 비디오를 재생하는 방법?
 description: 에 의해TesDisplay 앱, 우리는 운전 중에 모든 승객을위한 Tesla의 큰 터치 스크린에 Netflix 비디오를 캐스팅 할 수 있습니다.
 nav: false

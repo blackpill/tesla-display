@@ -1,7 +1,7 @@
 ---
 lang: hi
 layout: page
-permalink: /karaoke/
+permalink: karaoke/
 title: टेस्ला चलाते समय कराओके गाने कैसे खेलें?
 description: का उपयोग करते हुएTesla Display, हम ड्राइविंग करते समय टेस्ला की बड़ी स्क्रीन पर यात्रियों के लिए कराओके गाने बजा सकते हैं।
 nav: false

@@ -1,7 +1,7 @@
 ---
 lang: fr
 layout: page
-permalink: /youtube/
+permalink: youtube/
 title: Comment lire des vidéos YouTube en conduisant Tesla?
 description: En utilisantTesla Display, nous pouvons lire des vidéos YouTube pour les passagers sur grand écran de Tesla pendant la conduite.
 nav: false

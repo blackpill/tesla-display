@@ -1,7 +1,7 @@
 ---
 lang: ru
 layout: page
-permalink: /uber/
+permalink: uber/
 title: Как использовать Uber на Tesla?
 description: Мы можем разыграть приложение Uber Driver на большой сенсорный экран Tesla во время вождения, и мы можем даже манипулировать приложением Uber на сенсорном экране Tesla напрямую.
 nav: false

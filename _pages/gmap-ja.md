@@ -1,7 +1,7 @@
 ---
 lang: ja
 layout: how-to
-permalink: /gmap/
+permalink: gmap/
 title: TeslaのタッチスクリーンでGoogleマップを使用する方法は？
 description: 運転中にGoogleマップアプリをTeslaの大きなタッチスクリーンにキャストすることができ、TeslaのタッチスクリーンのGoogleマップアプリを直接操作することもできます。
 nav: false

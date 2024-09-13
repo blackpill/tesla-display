@@ -1,7 +1,7 @@
 ---
 lang: en
 layout: page
-permalink: /hotspot/
+permalink: hotspot/
 title: How to solve the heating issue when using mobile hotspot?
 description: By adding a phone cooler, we can use mobile hotspot for a long time without worrying about the overheating issue.
 nav: false

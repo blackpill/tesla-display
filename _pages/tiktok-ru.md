@@ -1,7 +1,7 @@
 ---
 lang: ru
 layout: how-to
-permalink: /tiktok/
+permalink: tiktok/
 title: Как игратьTiktok Видео во время вождения Теслы?
 description: С использованиемTesla Display, Мы можем игратьTiktok Видео для пассажиров на большом экране Теслы во время вождения.
 nav: false

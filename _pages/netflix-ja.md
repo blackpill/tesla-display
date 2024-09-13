@@ -1,7 +1,7 @@
 ---
 lang: ja
 layout: page
-permalink: /netflix/
+permalink: netflix/
 title: 運転中にテスラでNetflixビデオを再生する方法は？
 description: によるTesDisplay アプリでは、運転中にすべての乗客のためにTeslaの大きなタッチスクリーンにNetflixビデオをキャストできます。
 nav: false

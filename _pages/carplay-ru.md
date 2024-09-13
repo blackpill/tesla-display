@@ -2,7 +2,7 @@
 lang: ru
 layout: page
 page_id: carplay
-permalink: /carplay/
+permalink: carplay/
 title: Как использоватьCarPlay на Тесле?
 description: Возможно ли использоватьCarPlay на Тесле?
 nav: false

@@ -1,7 +1,7 @@
 ---
 lang: zh-CN
 layout: page
-permalink: /karaoke/
+permalink: karaoke/
 title: 如何在开车特斯拉时播放卡拉OK歌曲？
 description: 使用Tesla Display，我们可以在开车时在特斯拉的大屏幕上为乘客播放卡拉OK歌曲。
 nav: false

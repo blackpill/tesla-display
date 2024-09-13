@@ -2,7 +2,7 @@
 lang: ko
 layout: page
 page_id: carplay
-permalink: /carplay/
+permalink: carplay/
 title: 사용하는 방법CarPlay 테슬라에서?
 description: 사용할 수 있습니까?CarPlay 테슬라에서?
 nav: false

@@ -3,7 +3,7 @@ lang: es
 layout: page
 seotitle: TesDisplay - Mirror de la pantalla de iPhone o videos de reparto a Tesla
 title: iOS
-permalink: /ios/
+permalink: ios/
 nav: true
 nav_order: 1
 categories: tutorial

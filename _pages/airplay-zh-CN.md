@@ -1,7 +1,7 @@
 ---
 lang: zh-CN
 layout: page
-permalink: /airplay/
+permalink: airplay/
 title: 如何使用AirPlay 镜像电话到特斯拉？
 description: 是否可以将我的电话屏幕镜像到特斯拉的大触摸屏通过AirPlay？
 nav: false

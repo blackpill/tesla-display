@@ -1,7 +1,7 @@
 ---
 lang: hi
 layout: how-to
-permalink: /tiktok/
+permalink: tiktok/
 title: कैसे खेलने के लिएTiktok टेस्ला चलाते समय वीडियो?
 description: का उपयोग करते हुएTesla Display, हम खेल सकते हैंTiktok ड्राइविंग करते समय टेस्ला की बड़ी स्क्रीन पर यात्रियों के लिए वीडियो।
 nav: false

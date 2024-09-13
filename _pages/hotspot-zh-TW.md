@@ -1,7 +1,7 @@
 ---
 lang: zh-TW
 layout: page
-permalink: /hotspot/
+permalink: hotspot/
 title: 使用移動熱點時如何解決加熱問題？
 description: 通過添加電話冷卻器，我們可以長時間使用移動熱點，而不必擔心過熱問題。
 nav: false

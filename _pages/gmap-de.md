@@ -1,7 +1,7 @@
 ---
 lang: de
 layout: how-to
-permalink: /gmap/
+permalink: gmap/
 title: Wie benutze ich Google Map in Teslas Touchscreen?
 description: Wir können die Google Map -App während der Fahrt auf Teslas Big Touchscreen übertragen und die Google Map -App sogar direkt auf Teslas Touchscreen manipulieren.
 nav: false

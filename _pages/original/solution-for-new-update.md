@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /solution-for-new-update/
+permalink: solution-for-new-update/
 title: Solutions for Android phones with recent Google Play system update?
 description: If the date of Google Play system update on your phone is later than June 1, 2024, it will be more difficult to mirror your phone screen to Tesla with the Tesla Display app.
 nav: false

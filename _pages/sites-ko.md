@@ -1,7 +1,7 @@
 ---
 lang: ko
 layout: page
-permalink: /sites/
+permalink: sites/
 title: 지원되는 비디오 사이트
 description: TeslaDisplay 지원되는 앱/사이트 (YouTube,Tiktok) 테슬라에.
 nav: true

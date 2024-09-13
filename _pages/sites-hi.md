@@ -1,7 +1,7 @@
 ---
 lang: hi
 layout: page
-permalink: /sites/
+permalink: sites/
 title: समर्थित वीडियो साइटें
 description: TeslaDisplay समर्थित ऐप्स/साइट्स से वीडियो डाल सकते हैं (YouTube,Tiktok) टेस्ला को।
 nav: true

@@ -1,7 +1,7 @@
 ---
 lang: de
 layout: page
-permalink: /sites/
+permalink: sites/
 title: Unterstützte Video -Sites
 description: TeslaDisplay Kann Videos von unterstützten Apps/Websites (YouTube, ausführenTiktok) zu Tesla.
 nav: true

@@ -1,7 +1,7 @@
 ---
 lang: de
 layout: how-to
-permalink: /tiktok/
+permalink: tiktok/
 title: SpielanleitungTiktok Videos beim Fahren von Tesla?
 description: VerwendungTesla Display, wir können spielenTiktok Videos für Passagiere auf Teslas großer Leinwand während der Fahrt.
 nav: false

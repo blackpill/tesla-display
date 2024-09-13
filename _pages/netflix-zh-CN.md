@@ -1,7 +1,7 @@
 ---
 lang: zh-CN
 layout: page
-permalink: /netflix/
+permalink: netflix/
 title: 如何在开车时在特斯拉上播放Netflix视频？
 description: 经过TesDisplay 应用程序，我们可以在开车时为所有乘客的大触摸屏投放Netflix视频。
 nav: false

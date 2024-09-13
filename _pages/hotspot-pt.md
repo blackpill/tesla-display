@@ -1,7 +1,7 @@
 ---
 lang: pt
 layout: page
-permalink: /hotspot/
+permalink: hotspot/
 title: Como resolver o problema de aquecimento ao usar o Mobile Hotspot?
 description: Ao adicionar um refrigerador de telefone, podemos usar o Mobile Hotspot por um longo tempo sem nos preocupar com o problema de superaquecimento.
 nav: false

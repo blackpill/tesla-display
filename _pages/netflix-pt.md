@@ -1,7 +1,7 @@
 ---
 lang: pt
 layout: page
-permalink: /netflix/
+permalink: netflix/
 title: Como reproduzir vídeos da Netflix no Tesla enquanto dirige?
 description: PorTesDisplay App, podemos lançar vídeos da Netflix na grande tela sensível ao toque da Tesla para todos os passageiros enquanto dirigirão.
 nav: false

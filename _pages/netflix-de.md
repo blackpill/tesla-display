@@ -1,7 +1,7 @@
 ---
 lang: de
 layout: page
-permalink: /netflix/
+permalink: netflix/
 title: Wie spiele ich während der Fahrt Netflix -Videos auf Tesla ab?
 description: VonTesDisplay App, wir können Netflix -Videos für alle Passagiere während der Fahrt auf Teslas großen Touchscreen aufstellen.
 nav: false

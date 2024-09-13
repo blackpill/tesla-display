@@ -1,7 +1,7 @@
 ---
 lang: es
 layout: page
-permalink: /netflix/
+permalink: netflix/
 title: ¿Cómo reproducir videos de Netflix en Tesla mientras conduce?
 description: PorTesDisplay Aplicación, podemos lanzar videos de Netflix a la gran pantalla táctil de Tesla para todos los pasajeros mientras conducen.
 nav: false

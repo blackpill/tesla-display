@@ -1,7 +1,7 @@
 ---
 lang: ko
 layout: page
-permalink: /karaoke/
+permalink: karaoke/
 title: 테슬라를 운전하는 동안 노래방 노래를 연주하는 방법?
 description: 사용Tesla Display, 우리는 운전 중에 테슬라의 큰 화면에서 승객을위한 노래방 노래를 연주 할 수 있습니다.
 nav: false
