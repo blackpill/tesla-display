@@ -75,6 +75,14 @@ layout: default
 
             </div>
           {%- endif %}
+          <div>
+            <h2>Interesting Sites</h2>
+            <ul>
+              {% for link in site.data.links %}
+                <li><a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.name }}</a></li>
+              {% endfor %}
+            </ul>
+          </div>
         </article>
 
 </div>
