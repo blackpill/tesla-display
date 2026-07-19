@@ -29,7 +29,7 @@
     {% endif %}
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
     {% assign canonical_path = page.url | replace:'index.html','' %}
-    {% if page.lang and site.active_lang != page.lang %}
+    {% if page.rendered_lang and site.active_lang != page.rendered_lang %}
       {% assign active_lang_prefix = '/' | append: site.active_lang %}
       {% assign canonical_path = canonical_path | remove_first: active_lang_prefix %}
     {% endif %}
