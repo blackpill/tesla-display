@@ -28,7 +28,12 @@
     <link rel="shortcut icon" href="{{ site.icon | prepend: '/assets/img/' | relative_url}}"/>
     {% endif %}
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+    {% assign canonical_path = page.url | replace:'index.html','' %}
+    {% if page.lang and site.active_lang != page.lang %}
+      {% assign active_lang_prefix = '/' | append: site.active_lang %}
+      {% assign canonical_path = canonical_path | remove_first: active_lang_prefix %}
+    {% endif %}
+    <link rel="canonical" {% static_href %}href="{{ canonical_path | absolute_url }}"{% endstatic_href %}>
 
     <!-- Dark Mode -->
     {% if site.enable_darkmode %}
