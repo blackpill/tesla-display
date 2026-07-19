@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: page
 permalink: /demo-plex/
 title: How to cast Plex videos to Tesla's screen?

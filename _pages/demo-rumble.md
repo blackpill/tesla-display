@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: page
 permalink: /demo-rumble/
 title: How to cast Rumble videos to Tesla's screen?

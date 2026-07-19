@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: page
 permalink: /demo-crunchyroll/
 title: How to cast Crunchyroll videos to Tesla's screen?

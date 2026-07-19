@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: page
 permalink: /demo-youtube-kids/
 title: How to cast Youtube Kids videos to Tesla's screen?

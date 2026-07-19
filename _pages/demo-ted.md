@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: page
 permalink: /demo-ted/
 title: How to cast TED Talks videos to Tesla's screen?

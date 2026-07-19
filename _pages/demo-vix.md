@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: page
 permalink: /demo-vix/
 title: How to cast Vix videos to Tesla's screen?

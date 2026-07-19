@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: page
 permalink: /demo-khan/
 title: How to cast Khan Academy videos to Tesla's screen?

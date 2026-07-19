@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: page
 permalink: /demo-pbskids/
 title: How to cast PBS Kids videos to Tesla's screen?

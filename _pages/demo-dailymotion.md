@@ -1,4 +1,5 @@
 ---
+lang: en
 layout: page
 permalink: /demo-dailymotion/
 title: How to cast DailyMotion videos to Tesla's screen?
