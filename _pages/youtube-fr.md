@@ -2,14 +2,24 @@
 lang: fr
 layout: page
 permalink: youtube/
-title: Comment lire des vidéos YouTube en conduisant Tesla?
-description: En utilisantTesla Display, nous pouvons lire des vidéos YouTube pour les passagers sur grand écran de Tesla pendant la conduite.
+title: Comment regarder YouTube sur l’écran d’une Tesla
+description: "Utilisez Tesla Display pour regarder YouTube sur l’écran de votre Tesla : connexion Wi‑Fi, envoi d’une vidéo, lecture et conseils de sécurité."
 nav: false
 social: true  # includes social icons at the bottom of the page
 nav_order: 1
 categories: tutorial
+faq_heading: Questions fréquentes
+faq:
+  - question: Peut-on regarder YouTube pendant que la Tesla roule ?
+    answer: Cette fonction est destinée aux passagers. Le conducteur ne doit ni regarder ni manipuler la vidéo et doit respecter la réglementation locale ainsi que les restrictions de sécurité de Tesla.
+  - question: Pourquoi la vidéo ne s’affiche-t-elle pas ?
+    answer: Vérifiez que la Tesla est connectée au point d’accès Wi‑Fi du téléphone, que Tesla Display est démarré et que « Remain connected in Drive » est activé.
+  - question: Comment écouter le son dans les haut-parleurs de la Tesla ?
+    answer: Connectez le téléphone à la Tesla en Bluetooth, puis choisissez Bluetooth comme source audio.
 ---
 <!-- _pages/youtube.md -->
+
+Tesla Display permet d’envoyer une vidéo depuis un téléphone vers le navigateur de la Tesla. Le guide ci-dessous présente la préparation, la connexion et la lecture étape par étape. Utilisez cette fonction uniquement pour les passagers lorsque le véhicule roule.
 
 <!-- blank line -->
 <figure class= "video-container" >
@@ -68,4 +78,3 @@ Maintenant, vos passagers peuvent profiter de la vidéo lorsque vous conduisez.
 ## Obtenez plus de détails?
 <p> <a href = "https://discord.gg/Tvbs9uWcN9"  cible = "_blank" > Rejoignez notreDiscord</a> </p>
 <p> <a href = "https://groups.google.com/g/tesla-display"  cible = "_blank" > Discuter dans Google Group </a> </p>
-

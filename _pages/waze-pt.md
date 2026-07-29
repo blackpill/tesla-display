@@ -2,8 +2,8 @@
 lang: pt
 layout: how-to
 permalink: waze/
-title: Como usarWaze Na tela sensível ao toque de Tesla?
-description: Nós podemos lançar oWaze App à grande tela sensível ao toque de Tesla enquanto dirige, e pode até manipular oWaze App na tela sensível ao toque da Tesla diretamente.
+title: Como usar o Waze na tela do Tesla — guia passo a passo
+description: "Veja como espelhar o Waze do celular na tela do Tesla com o Tesla Display, configurar o hotspot, o controle remoto e o áudio por Bluetooth."
 nav: false
 social: true  # includes social icons at the bottom of the page
 nav_order: 1
@@ -11,8 +11,18 @@ categories: tutorial
 img_url: /assets/img/waze-on-screen.jpg
 img_width: 540
 img_height: 960
+faq_heading: Perguntas frequentes
+faq:
+  - question: É possível usar o Waze na tela do Tesla?
+    answer: O Tesla Display espelha o Waze do celular no navegador do veículo. O motorista deve respeitar as leis locais e não interagir com a tela enquanto dirige.
+  - question: Por que o Waze não aparece no navegador do Tesla?
+    answer: Confirme que o veículo está conectado ao hotspot do celular, que o Tesla Display está iniciado e que “Remain connected in Drive” está ativado.
+  - question: Como ouvir as instruções de voz do Waze?
+    answer: Conecte o celular ao Tesla por Bluetooth e selecione Bluetooth como fonte de áudio.
 ---
 <!-- _pages/waze.md -->
+O Tesla Display permite visualizar o Waze do celular no navegador do Tesla sem instalar o aplicativo no veículo. Siga as etapas abaixo para configurar a conexão, o espelhamento e as instruções de voz com segurança.
+
 <!-- blank line -->
 <figure class= "video-container" >
   <iframe width= "540"  height= "303"  src= "https://www.youtube.com/embed/35bMECpF9bQ"  frameborder= "0"  allowfullscreen= "true" > </iframe>
@@ -72,4 +82,3 @@ Então podemos ouvir o som de alerta deWaze dos falantes de Tesla.
 ## Obter mais detalhes?
 <p> <a href = "https://discord.gg/Tvbs9uWcN9"  destino = "_blank" > Participe do nossoDiscord</a> </p>
 <p> <a href = "https://groups.google.com/g/tesla-display"  destino = "_blank" > Discuta no Google Group </a> </p>
-

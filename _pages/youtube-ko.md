@@ -2,14 +2,24 @@
 lang: ko
 layout: page
 permalink: youtube/
-title: 테슬라를 운전하는 동안 YouTube 동영상을 재생하는 방법?
-description: 사용Tesla Display, 우리는 운전 중에 Tesla의 큰 화면에서 승객을위한 YouTube 비디오를 재생할 수 있습니다.
+title: 테슬라 화면에서 유튜브 보는 방법 | 연결부터 재생까지
+description: "Tesla Display로 테슬라 화면에서 유튜브를 재생하는 방법을 알아보세요. Wi‑Fi 연결, 영상 전송, 소리 설정과 안전 주의사항을 설명합니다."
 nav: false
 social: true  # includes social icons at the bottom of the page
 nav_order: 1
 categories: tutorial
+faq_heading: 자주 묻는 질문
+faq:
+  - question: 주행 중 테슬라 화면에서 유튜브를 볼 수 있나요?
+    answer: 이 기능은 동승자를 위한 것입니다. 운전자는 주행 중 영상을 보거나 조작하지 말고 현지 교통 법규와 테슬라의 안전 제한을 준수해야 합니다.
+  - question: 영상이 표시되지 않을 때 무엇을 확인해야 하나요?
+    answer: 테슬라가 휴대전화 핫스팟에 연결되어 있는지, Tesla Display가 실행 중인지, ‘Remain connected in Drive’가 활성화되어 있는지 확인하세요.
+  - question: 테슬라 스피커로 소리를 들으려면 어떻게 하나요?
+    answer: 휴대전화를 테슬라에 Bluetooth로 연결한 뒤 차량 오디오 소스를 Bluetooth로 선택하세요.
 ---
 <!-- _pages/youtube.md -->
+
+Tesla Display는 휴대전화의 영상을 테슬라 브라우저로 전송합니다. 아래 순서에 따라 핫스팟 연결부터 유튜브 영상 재생까지 설정할 수 있습니다. 주행 중에는 동승자만 이용하고 운전자는 화면을 조작하지 마세요.
 
 <!-- blank line -->
 <figure class= "video-container" >
@@ -68,4 +78,3 @@ YouTube 앱을 엽니 다.
 ## 자세한 내용은?
 <p> <a href = "https://discord.gg/Tvbs9uWcN9"  대상 = "_blank" > 우리와 함께하십시오Discord</a> </p>
 <p> <a href = "https://groups.google.com/g/tesla-display"  대상 = "_blank" > Google Group에서 토론 </a> </p>
-

@@ -2,14 +2,24 @@
 lang: ja
 layout: page
 permalink: youtube/
-title: テスラを運転しながらYouTubeビデオを再生する方法は？
-description: 使用Tesla Display、運転中にテスラの大画面で乗客向けのYouTubeビデオを再生できます。
+title: テスラでYouTubeを見る方法｜停車中・走行中の乗客向け手順
+description: "Tesla Displayを使ってテスラの画面でYouTubeを見る手順を解説。Wi‑Fi接続、動画リンクの送信、走行中に利用する際の注意点まで紹介します。"
 nav: false
 social: true  # includes social icons at the bottom of the page
 nav_order: 1
 categories: tutorial
+faq_heading: よくある質問
+faq:
+  - question: 走行中にテスラの画面でYouTubeを視聴できますか？
+    answer: 安全のため運転者は視聴や操作をしないでください。Tesla Displayは同乗者向けに利用し、地域の交通法規とテスラの安全上の制限に従ってください。
+  - question: YouTubeの音声はどこから再生されますか？
+    answer: スマートフォンをBluetoothでテスラに接続し、車両の音源をBluetoothに設定すると車内スピーカーから再生できます。
+  - question: 接続できない場合は何を確認しますか？
+    answer: テスラがスマートフォンのホットスポットに接続されていることと、Wi‑Fi設定の「Remain connected in Drive」が有効であることを確認してください。
 ---
 <!-- _pages/youtube.md -->
+
+Tesla Displayは、スマートフォンから動画を送信し、テスラのブラウザ上で再生するためのアプリです。以下では、Android・iPhone共通の準備から再生までを順番に説明します。運転者は走行中に画面を注視・操作せず、同乗者向けの機能として安全に利用してください。
 
 <!-- blank line -->
 <figure class="video-container">
@@ -68,4 +78,3 @@ YouTubeアプリを開きます。
 ## 詳細を入手しますか？
 <p> <a href ="https://discord.gg/Tvbs9uWcN9" ターゲット="_blank">参加してくださいDiscord</a> </p>
 <p> <a href ="https://groups.google.com/g/tesla-display" ターゲット="_blank"> Googleグループで話し合う</a> </p>
-

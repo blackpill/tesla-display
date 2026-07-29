@@ -2,12 +2,20 @@
 lang: ja
 layout: page
 permalink: netflix/
-title: 運転中にテスラでNetflixビデオを再生する方法は？
-description: によるTesDisplay アプリでは、運転中にすべての乗客のためにTeslaの大きなタッチスクリーンにNetflixビデオをキャストできます。
+title: テスラでNetflixを見る方法｜乗客向け接続ガイド
+description: "TesDisplayを使い、Netflixをテスラの画面に映す方法を解説。必要な機器、Wi‑Fi接続、Firefoxの設定、安全上の注意点を紹介します。"
 nav: false
 social: true  # includes social icons at the bottom of the page
 nav_order: 1
 categories: tutorial
+faq_heading: よくある質問
+faq:
+  - question: 走行中にNetflixを利用できますか？
+    answer: 運転者は走行中に動画を視聴・操作しないでください。同乗者向けに利用し、地域の交通法規とテスラの安全上の制限に従ってください。
+  - question: Netflixが黒い画面になるのはなぜですか？
+    answer: NetflixのDRM保護により通常の画面ミラーリングでは映像が表示されない場合があります。この手順では対応する端末とFirefoxを利用します。
+  - question: 音声を車内スピーカーから流せますか？
+    answer: 端末をテスラにBluetooth接続し、車両側の音源をBluetoothに設定してください。
 ---
 
 乗客はいつも疲れていて、長い旅行のために退屈です。この記事では、運転中に乗客のためにTeslaの大きなタッチスクリーンにNetflixビデオをキャストする方法を紹介します。ローカルの交通規則に従う必要があり、ビデオはドライバーではなく、乗客専用であることに注意してください。 Drviersは運転に集中し続ける必要があります。
@@ -63,4 +71,3 @@ iPadでBluetoothが有効になり、Tesla EVに接続されていることを�
 ## 詳細を入手しますか？
 <p> <a href ="https://discord.gg/Tvbs9uWcN9" ターゲット="_blank">参加してくださいDiscord</a> </p>
 <p> <a href ="https://groups.google.com/g/tesla-display" ターゲット="_blank"> Googleグループで話し合う</a> </p>
-

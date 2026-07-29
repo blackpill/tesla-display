@@ -28,12 +28,33 @@
     <link rel="shortcut icon" href="{{ site.icon | prepend: '/assets/img/' | relative_url}}"/>
     {% endif %}
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
-    {% assign canonical_path = page.url | replace:'index.html','' %}
+    {% assign fallback_translation = false %}
     {% if page.rendered_lang and site.active_lang != page.rendered_lang %}
-      {% assign active_lang_prefix = '/' | append: site.active_lang %}
-      {% assign canonical_path = canonical_path | remove_first: active_lang_prefix %}
+      {% assign fallback_translation = true %}
     {% endif %}
-    <link rel="canonical" {% static_href %}href="{{ canonical_path | absolute_url }}"{% endstatic_href %}>
+    {% if page.noindex or fallback_translation %}
+    <meta name="robots" content="noindex,follow">
+    {% endif %}
+    {% if page.faq %}
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {% for item in page.faq %}
+        {
+          "@type": "Question",
+          "name": {{ item.question | jsonify }},
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": {{ item.answer | strip_html | jsonify }}
+          }
+        }{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+      ]
+    }
+    </script>
+    {% endif %}
 
     <!-- Dark Mode -->
     {% if site.enable_darkmode %}
@@ -42,7 +63,6 @@
     <script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
     <script src="{{ '/assets/js/dark_mode.js' | relative_url }}"></script>
     {% endif %}
-    {% seo title=false %}
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4197847608048079"
      crossorigin="anonymous"></script>
     <!-- Google tag (gtag.js) -->

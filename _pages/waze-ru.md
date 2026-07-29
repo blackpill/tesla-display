@@ -2,8 +2,8 @@
 lang: ru
 layout: how-to
 permalink: waze/
-title: Как использоватьWaze На сенсорном экране Теслы?
-description: Мы можем разыгратьWaze приложение к большому сенсорному экрану Теслы во время вождения и даже может манипулироватьWaze Приложение на сенсорном экране Теслы напрямую.
+title: Как использовать Waze на экране Tesla — пошаговая инструкция
+description: "Как вывести Waze с телефона на экран Tesla через Tesla Display: настройка точки доступа, зеркалирование, управление и передача звука по Bluetooth."
 nav: false
 social: true  # includes social icons at the bottom of the page
 nav_order: 1
@@ -11,8 +11,18 @@ categories: tutorial
 img_url: /Assets/img/waze-on-screen.jpg
 img_width: 540
 img_height: 960
+faq_heading: Частые вопросы
+faq:
+  - question: Можно ли использовать Waze на экране Tesla?
+    answer: Tesla Display зеркалирует Waze со смартфона в браузер автомобиля. Водитель должен соблюдать местные правила и не отвлекаться на экран во время движения.
+  - question: Почему Waze не открывается в браузере Tesla?
+    answer: Проверьте подключение автомобиля к точке доступа телефона, включите «Remain connected in Drive» и убедитесь, что Tesla Display запущен.
+  - question: Как включить голосовые подсказки Waze?
+    answer: Подключите телефон к Tesla по Bluetooth и выберите Bluetooth в качестве источника звука.
 ---
 <!-- _pages/waze.md -->
+Tesla Display позволяет показать Waze со смартфона в браузере Tesla без установки приложения в автомобиль. Ниже приведена настройка подключения, зеркалирования и голосовых подсказок. Используйте экран безопасно и не выполняйте действия, отвлекающие водителя.
+
 <!-- blank line -->
 <figure class= "video-container" >
   <iframe width= "540"  height= "303"  src= "https://www.youtube.com/embed/35bMECpF9bQ"  frameborder= "0"  allowfullscreen= "true" > </iframe>
@@ -72,4 +82,3 @@ img_height: 960
 ## Получить больше деталей?
 <p> <a href = "https://discord.gg/Tvbs9uWcN9"  цель = "_blank" > Присоединяйтесь к нашемуDiscord</a> </p>
 <p> <a href = "https://groups.google.com/g/tesla-display"  цель = "_blank" > Обсудить в Google Group </a> </p>
-
